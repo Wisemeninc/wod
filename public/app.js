@@ -19,6 +19,7 @@ let current = null;
 const els = {
   img: $("card-img"),
   dateLabel: $("date-label"),
+  todayBtn: $("today-btn"),
   copyBtn: $("copy-btn"),
   downloadBtn: $("download-btn"),
   status: $("share-status"),
@@ -57,10 +58,13 @@ async function load() {
   els.dateLabel.textContent = humanDate(current.date, offset);
   els.img.alt = `${current.word.word} — ${current.word.definition}`;
   els.downloadBtn.setAttribute("download", `onlymip-wod-${current.word.id}.png`);
+  // "Today" appears only while browsing an earlier day.
+  els.todayBtn.hidden = offset === 0;
   applyScheme();
 
-  // Keep the address bar on the day's canonical URL so the link is shareable.
-  history.replaceState(null, "", current.shareUrl);
+  // Keep the address bar clean (no /day/... path); the share link still points
+  // at the day's canonical URL via the Copy button.
+  history.replaceState(null, "", "/");
   document.title = `${current.word.word} — OnlyMIP Word of the Day`;
 }
 
@@ -83,6 +87,7 @@ async function copyLink() {
 }
 
 $("prev-day").addEventListener("click", () => { offset -= 1; load(); });
+els.todayBtn.addEventListener("click", () => { offset = 0; load(); });
 els.copyBtn.addEventListener("click", copyLink);
 
 load();
