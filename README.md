@@ -32,6 +32,17 @@ docker run -d -p 3000:3000 --name onlymip-wod onlymip-wordquiz-wod
 
 Open <http://localhost:3000>. Try <http://localhost:3000/day/2026-07-02>.
 
+## Deployment (production)
+
+Live at <https://wod.onlymip.com>, deployed on the host at `/opt/wod` behind a
+shared [Traefik](https://traefik.io) proxy with automatic Let's Encrypt TLS. Use
+[`docker-compose.prod.yml`](docker-compose.prod.yml) — it attaches to the external
+`traefik-public` network and sets the router labels for `wod.onlymip.com`:
+
+```bash
+docker compose -f docker-compose.prod.yml up -d --build
+```
+
 ## Run locally (Bun)
 
 ```bash

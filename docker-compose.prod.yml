@@ -1,0 +1,22 @@
+# Production deployment — wod.onlymip.com
+# Runs behind the shared Traefik proxy (external `traefik-public` network) with
+# automatic Let's Encrypt TLS. Deployed on the host at /opt/wod.
+#   docker compose -f docker-compose.prod.yml up -d --build
+services:
+  wod:
+    build: .
+    environment:
+      - PORT=3000
+    labels:
+      - "traefik.enable=true"
+      - "traefik.http.routers.wod.rule=Host(`wod.onlymip.com`)"
+      - "traefik.http.routers.wod.entrypoints=websecure"
+      - "traefik.http.routers.wod.tls.certresolver=letsencrypt"
+      - "traefik.http.services.wod.loadbalancer.server.port=3000"
+    restart: unless-stopped
+    networks:
+      - traefik-public
+
+networks:
+  traefik-public:
+    external: true
