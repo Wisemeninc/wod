@@ -1,0 +1,5598 @@
+{
+  "anchorDate": "2026-07-02",
+  "words": [
+    {
+      "id": "fucktivated",
+      "word": "Fucktivated",
+      "pos": "adjective",
+      "ipa": "/ˈfʌk.tɪ.veɪ.tɪd/",
+      "blend": [
+        "fuck",
+        "motivated"
+      ],
+      "definition": "Driven to sudden, ferocious productivity by pure rage or spite rather than any healthy ambition.",
+      "example": "I was so pissed off after that meeting I got fucktivated and cleaned the entire garage at 2am.",
+      "tags": [
+        "rage",
+        "motivation",
+        "workplace"
+      ]
+    },
+    {
+      "id": "bullshitual",
+      "word": "Bullshitual",
+      "pos": "noun",
+      "ipa": "/ˌbʊlˈʃɪtʃu.əl/",
+      "blend": [
+        "bullshit",
+        "ritual"
+      ],
+      "definition": "A hollow ceremony performed purely for appearances, long after everyone forgot why it exists.",
+      "example": "The Monday morning stand-up is a pure bullshitual — forty minutes to say nothing changed.",
+      "tags": [
+        "workplace",
+        "absurd"
+      ]
+    },
+    {
+      "id": "fuckitydoodah",
+      "word": "FuckityDooDah",
+      "pos": "exclamation",
+      "ipa": "/ˌfʌk.ɪ.tiˈduː.dɑː/",
+      "blend": [
+        "fuck it",
+        "Zip-a-Dee-Doo-Dah"
+      ],
+      "definition": "A cheerful cry of total surrender, flung at the sky when a situation is beyond all saving.",
+      "example": "Server's on fire, coffee's cold, it's Monday — well, fuckitydoodah, let's begin.",
+      "tags": [
+        "rage",
+        "absurd",
+        "motivation"
+      ]
+    },
+    {
+      "id": "craptacular",
+      "word": "Craptacular",
+      "pos": "adjective",
+      "ipa": "/kræpˈtæk.jʊ.lər/",
+      "blend": [
+        "crap",
+        "spectacular"
+      ],
+      "definition": "Impressively, gloriously, almost artistically bad.",
+      "example": "The sequel wasn't just bad, it was craptacular — a masterpiece of failure.",
+      "tags": [
+        "absurd",
+        "judgment"
+      ]
+    },
+    {
+      "id": "ambitchous",
+      "word": "Ambitchous",
+      "pos": "adjective",
+      "ipa": "/æmˈbɪtʃ.əs/",
+      "blend": [
+        "ambitious",
+        "bitch"
+      ],
+      "definition": "Ruthlessly ambitious, climbing the ladder while cheerfully kicking it out from under others.",
+      "example": "She's not driven, she's ambitchous — she scheduled her rival's layoff for their birthday.",
+      "tags": [
+        "workplace",
+        "judgment"
+      ]
+    },
+    {
+      "id": "destinesia",
+      "word": "Destinesia",
+      "pos": "noun",
+      "ipa": "/ˌdɛs.tɪˈniː.ʒə/",
+      "blend": [
+        "destination",
+        "amnesia"
+      ],
+      "definition": "The condition of arriving somewhere and instantly forgetting why you went there.",
+      "example": "I marched into the kitchen with purpose, then hit total destinesia at the fridge.",
+      "tags": [
+        "brain",
+        "absurd"
+      ]
+    },
+    {
+      "id": "askhole",
+      "word": "Askhole",
+      "pos": "noun",
+      "ipa": "/ˈæsk.hoʊl/",
+      "blend": [
+        "ask",
+        "asshole"
+      ],
+      "definition": "A person who constantly begs for advice and then does the exact opposite, every single time.",
+      "example": "Don't waste your breath — he's an askhole, he already booked the non-refundable flight.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "hangxiety",
+      "word": "Hangxiety",
+      "pos": "noun",
+      "ipa": "/hæŋˈzaɪ.ə.ti/",
+      "blend": [
+        "hangover",
+        "anxiety"
+      ],
+      "definition": "The creeping dread and shame that arrive the morning after, uninvited and thorough.",
+      "example": "Three texts sent at 1am and full hangxiety by 9 — what did I even say?",
+      "tags": [
+        "hangover",
+        "brain"
+      ]
+    },
+    {
+      "id": "errorist",
+      "word": "Errorist",
+      "pos": "noun",
+      "ipa": "/ˈɛr.ər.ɪst/",
+      "blend": [
+        "error",
+        "terrorist"
+      ],
+      "definition": "Someone who repeatedly and reliably makes the same catastrophic mistake.",
+      "example": "Greg pushed to prod on a Friday again — the man's a serial errorist.",
+      "tags": [
+        "workplace",
+        "judgment"
+      ]
+    },
+    {
+      "id": "beerboarding",
+      "word": "Beerboarding",
+      "pos": "noun",
+      "ipa": "/ˈbɪr.bɔːr.dɪŋ/",
+      "blend": [
+        "beer",
+        "waterboarding"
+      ],
+      "definition": "The dark art of extracting a colleague's secrets by getting them cheerfully drunk.",
+      "example": "We learned the whole reorg plan by beerboarding Dave at the Christmas party.",
+      "tags": [
+        "workplace",
+        "social",
+        "hangover"
+      ]
+    },
+    {
+      "id": "cellfish",
+      "word": "Cellfish",
+      "pos": "adjective",
+      "ipa": "/ˈsɛl.fɪʃ/",
+      "blend": [
+        "cellphone",
+        "selfish"
+      ],
+      "definition": "Ignoring every human in the room in favour of the glowing rectangle in your hand.",
+      "example": "We were at dinner but she went full cellfish before the drinks even arrived.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "textpectation",
+      "word": "Textpectation",
+      "pos": "noun",
+      "ipa": "/ˌtɛkst.pɛkˈteɪ.ʃən/",
+      "blend": [
+        "text",
+        "expectation"
+      ],
+      "definition": "The slow, gnawing agony of waiting for a reply that says 'typing…' and then stops.",
+      "example": "It's been four hours of pure textpectation and the three dots keep taunting me.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "carcolepsy",
+      "word": "Carcolepsy",
+      "pos": "noun",
+      "ipa": "/ˈkɑːr.kə.lɛp.si/",
+      "blend": [
+        "car",
+        "narcolepsy"
+      ],
+      "definition": "The involuntary power to fall dead asleep the instant a moving car exceeds ten metres.",
+      "example": "My kid has such carcolepsy he's unconscious before we leave the driveway.",
+      "tags": [
+        "brain",
+        "absurd"
+      ]
+    },
+    {
+      "id": "nonversation",
+      "word": "Nonversation",
+      "pos": "noun",
+      "ipa": "/ˌnɒn.vərˈseɪ.ʃən/",
+      "blend": [
+        "non",
+        "conversation"
+      ],
+      "definition": "An exchange of words that transfers precisely zero meaning, warmth, or information.",
+      "example": "'How are you?' 'Busy!' 'Same!' — another prize-winning nonversation in the lift.",
+      "tags": [
+        "social",
+        "absurd",
+        "workplace"
+      ]
+    },
+    {
+      "id": "dudevorce",
+      "word": "Dudevorce",
+      "pos": "noun",
+      "ipa": "/ˈduːd.vɔːrs/",
+      "blend": [
+        "dude",
+        "divorce"
+      ],
+      "definition": "The slow, unspoken, quietly devastating dissolution of a male friendship.",
+      "example": "We didn't fight, we just stopped replying — a clean, silent dudevorce over eighteen months.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "procrastibaking",
+      "word": "Procrastibaking",
+      "pos": "noun",
+      "ipa": "/proʊˌkræs.tɪˈbeɪ.kɪŋ/",
+      "blend": [
+        "procrastinate",
+        "baking"
+      ],
+      "definition": "Producing elaborate baked goods for the sole purpose of avoiding actual work.",
+      "example": "The thesis is untouched but there are now three tiers of procrastibaking on the counter.",
+      "tags": [
+        "laziness",
+        "workplace",
+        "food"
+      ]
+    },
+    {
+      "id": "snackrifice",
+      "word": "Snackrifice",
+      "pos": "noun",
+      "ipa": "/ˈsnæk.rɪ.faɪs/",
+      "blend": [
+        "snack",
+        "sacrifice"
+      ],
+      "definition": "The last, best bite you nobly and resentfully surrender to someone you love.",
+      "example": "I gave her the final fry — the ultimate snackrifice — and I will never forget it.",
+      "tags": [
+        "food",
+        "social"
+      ]
+    },
+    {
+      "id": "fauxpology",
+      "word": "Fauxpology",
+      "pos": "noun",
+      "ipa": "/foʊˈpɒl.ə.dʒi/",
+      "blend": [
+        "faux",
+        "apology"
+      ],
+      "definition": "A non-apology engineered to sound contrite while admitting absolutely nothing.",
+      "example": "'I'm sorry you feel that way' is the flagship fauxpology of every bad manager.",
+      "tags": [
+        "social",
+        "workplace",
+        "judgment"
+      ]
+    },
+    {
+      "id": "irritainment",
+      "word": "Irritainment",
+      "pos": "noun",
+      "ipa": "/ɪˌrɪ.təˈteɪn.mənt/",
+      "blend": [
+        "irritating",
+        "entertainment"
+      ],
+      "definition": "Content you find genuinely infuriating yet remain physically unable to stop consuming.",
+      "example": "That reality show is pure irritainment — I hate all of them and I've seen every episode.",
+      "tags": [
+        "digital",
+        "absurd"
+      ]
+    },
+    {
+      "id": "blamestorming",
+      "word": "Blamestorming",
+      "pos": "noun",
+      "ipa": "/ˈbleɪm.stɔːr.mɪŋ/",
+      "blend": [
+        "blame",
+        "brainstorming"
+      ],
+      "definition": "A group meeting convened not to solve the problem but to establish whose fault it was.",
+      "example": "The outage lasted an hour; the blamestorming session about it lasted three days.",
+      "tags": [
+        "workplace",
+        "absurd"
+      ]
+    },
+    {
+      "id": "anticipointment",
+      "word": "Anticipointment",
+      "pos": "noun",
+      "ipa": "/ænˌtɪs.ɪˈpɔɪnt.mənt/",
+      "blend": [
+        "anticipation",
+        "disappointment"
+      ],
+      "definition": "The specific hollow letdown that follows something you spent weeks looking forward to.",
+      "example": "Two months of hype for the finale and it delivered nothing but pure anticipointment.",
+      "tags": [
+        "brain",
+        "judgment"
+      ]
+    },
+    {
+      "id": "gymtimidation",
+      "word": "Gymtimidation",
+      "pos": "noun",
+      "ipa": "/ˌdʒɪm.tɪ.mɪˈdeɪ.ʃən/",
+      "blend": [
+        "gym",
+        "intimidation"
+      ],
+      "definition": "The paralysing dread of the free-weights section and everyone who lives there.",
+      "example": "I bought the membership in January and gymtimidation has kept me in the car ever since.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "shituation",
+      "word": "Shituation",
+      "pos": "noun",
+      "ipa": "/ʃɪˈtʃu.eɪ.ʃən/",
+      "blend": [
+        "shit",
+        "situation"
+      ],
+      "definition": "A situation that has comprehensively, irreversibly, spectacularly gone wrong.",
+      "example": "Lost the passport, missed the flight, no cash — quite the shituation we're in.",
+      "tags": [
+        "absurd",
+        "judgment",
+        "rage"
+      ]
+    },
+    {
+      "id": "meanderthal",
+      "word": "Meanderthal",
+      "pos": "noun",
+      "ipa": "/miˈæn.dər.θɔːl/",
+      "blend": [
+        "meander",
+        "Neanderthal"
+      ],
+      "definition": "A slow, oblivious walker who drifts across the entire pavement blocking all overtaking.",
+      "example": "Three abreast at half a mile an hour — a full herd of meanderthals on the high street.",
+      "tags": [
+        "social",
+        "judgment",
+        "rage"
+      ]
+    },
+    {
+      "id": "adorkable",
+      "word": "Adorkable",
+      "pos": "adjective",
+      "ipa": "/əˈdɔːr.kə.bəl/",
+      "blend": [
+        "adorable",
+        "dork"
+      ],
+      "definition": "Endearing precisely and entirely because of the awkward dorkiness on display.",
+      "example": "He rehearsed the joke for a week and still fumbled it — completely adorkable.",
+      "tags": [
+        "social"
+      ]
+    },
+    {
+      "id": "confuzzled",
+      "word": "Confuzzled",
+      "pos": "adjective",
+      "ipa": "/kənˈfʌz.əld/",
+      "blend": [
+        "confused",
+        "puzzled"
+      ],
+      "definition": "Baffled to a degree that ordinary confusion simply cannot reach.",
+      "example": "The tax form left me so confuzzled I filed it under 'later' for a third year.",
+      "tags": [
+        "brain",
+        "absurd"
+      ]
+    },
+    {
+      "id": "datastrophe",
+      "word": "Datastrophe",
+      "pos": "noun",
+      "ipa": "/dəˈtæs.trə.fi/",
+      "blend": [
+        "data",
+        "catastrophe"
+      ],
+      "definition": "A disaster measured in rows and columns — the spreadsheet that ate the quarter.",
+      "example": "Someone sorted one column without the others and unleashed a full datastrophe.",
+      "tags": [
+        "digital",
+        "workplace"
+      ]
+    },
+    {
+      "id": "deskfast",
+      "word": "Deskfast",
+      "pos": "noun",
+      "ipa": "/ˈdɛsk.fæst/",
+      "blend": [
+        "desk",
+        "breakfast"
+      ],
+      "definition": "Breakfast eaten joylessly at your keyboard while already answering emails.",
+      "example": "Cold toast, warm laptop, dead inside — the classic 8:55am deskfast.",
+      "tags": [
+        "workplace",
+        "food"
+      ]
+    },
+    {
+      "id": "chairdrobe",
+      "word": "Chairdrobe",
+      "pos": "noun",
+      "ipa": "/ˈtʃɛər.droʊb/",
+      "blend": [
+        "chair",
+        "wardrobe"
+      ],
+      "definition": "The one designated chair in every bedroom buried under a geological pile of clothes.",
+      "example": "The clean, the dirty, the maybe — all archived on the sacred chairdrobe.",
+      "tags": [
+        "laziness",
+        "absurd"
+      ]
+    },
+    {
+      "id": "unlightening",
+      "word": "Unlightening",
+      "pos": "adjective",
+      "ipa": "/ʌnˈlaɪt.nɪŋ/",
+      "blend": [
+        "un",
+        "enlightening"
+      ],
+      "definition": "Of information so bad or confusing it leaves you measurably dumber than before.",
+      "example": "That explainer video was deeply unlightening — I now understand less than I did.",
+      "tags": [
+        "brain",
+        "digital",
+        "judgment"
+      ]
+    },
+    {
+      "id": "rageclick",
+      "word": "Rageclick",
+      "pos": "noun",
+      "ipa": "/ˈreɪdʒ.klɪk/",
+      "blend": [
+        "rage",
+        "click"
+      ],
+      "definition": "To hammer a frozen button repeatedly in the doomed hope that fury will unstick it.",
+      "example": "The spinner froze and I rageclicked 'Pay Now' forty times before it charged me twice.",
+      "tags": [
+        "digital",
+        "rage"
+      ]
+    },
+    {
+      "id": "zoombie",
+      "word": "Zoombie",
+      "pos": "noun",
+      "ipa": "/ˈzuːm.bi/",
+      "blend": [
+        "Zoom",
+        "zombie"
+      ],
+      "definition": "The hollow-eyed, dead-souled survivor of six back-to-back video calls.",
+      "example": "By 4pm I was a full zoombie, nodding at a screen with the camera mercifully off.",
+      "tags": [
+        "digital",
+        "workplace",
+        "brain"
+      ]
+    },
+    {
+      "id": "mondaze",
+      "word": "Mondaze",
+      "pos": "noun",
+      "ipa": "/mʌnˈdeɪz/",
+      "blend": [
+        "Monday",
+        "daze"
+      ],
+      "definition": "The thick cognitive fog of the first day back, where thought moves through treacle.",
+      "example": "I reheated the same coffee three times in a deep mondaze before I noticed.",
+      "tags": [
+        "workplace",
+        "brain"
+      ]
+    },
+    {
+      "id": "wanderlost",
+      "word": "Wanderlost",
+      "pos": "adjective",
+      "ipa": "/ˈwɒn.dər.lɒst/",
+      "blend": [
+        "wanderlust",
+        "lost"
+      ],
+      "definition": "Setting off to explore with a romantic heart and becoming hopelessly, cluelessly lost.",
+      "example": "We chased a 'scenic shortcut' and spent the afternoon gloriously wanderlost in the hills.",
+      "tags": [
+        "absurd",
+        "brain"
+      ]
+    },
+    {
+      "id": "brorrhea",
+      "word": "Brorrhea",
+      "pos": "noun",
+      "ipa": "/brɔːˈriː.ə/",
+      "blend": [
+        "bro",
+        "diarrhea"
+      ],
+      "definition": "An unstoppable, uninvited torrent of bro-talk about gains, crypto, and 'the grind'.",
+      "example": "One question about his weekend and I got twenty minutes of pure brorrhea.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "fridgehog",
+      "word": "Fridgehog",
+      "pos": "noun",
+      "ipa": "/ˈfrɪdʒ.hɒɡ/",
+      "blend": [
+        "fridge",
+        "hog"
+      ],
+      "definition": "One who stands staring into an open fridge as though the answer will materialise.",
+      "example": "He's been a fridgehog for four minutes now, expecting new food to appear by faith.",
+      "tags": [
+        "food",
+        "laziness",
+        "absurd"
+      ]
+    },
+    {
+      "id": "sundread",
+      "word": "Sundread",
+      "pos": "noun",
+      "ipa": "/ˈsʌn.drɛd/",
+      "blend": [
+        "Sunday",
+        "dread"
+      ],
+      "definition": "The creeping Sunday-evening gloom that arrives the moment you remember Monday exists.",
+      "example": "It's 4pm on Sunday and the sundread has already killed the whole afternoon.",
+      "tags": [
+        "workplace",
+        "brain"
+      ]
+    },
+    {
+      "id": "meetingitis",
+      "word": "Meetingitis",
+      "pos": "noun",
+      "ipa": "/ˌmiː.tɪŋˈaɪ.tɪs/",
+      "blend": [
+        "meeting",
+        "-itis"
+      ],
+      "definition": "The chronic organisational disease of scheduling meetings that could have been an email.",
+      "example": "The whole department has terminal meetingitis — we meet to plan the meeting.",
+      "tags": [
+        "workplace",
+        "absurd"
+      ]
+    },
+    {
+      "id": "flustrated",
+      "word": "Flustrated",
+      "pos": "adjective",
+      "ipa": "/ˈflʌs.treɪ.tɪd/",
+      "blend": [
+        "flustered",
+        "frustrated"
+      ],
+      "definition": "Too rattled and flapping to even organise yourself into being properly angry.",
+      "example": "I got so flustrated at the self-checkout I just abandoned the basket and left.",
+      "tags": [
+        "rage",
+        "brain"
+      ]
+    },
+    {
+      "id": "fauxductive",
+      "word": "Fauxductive",
+      "pos": "adjective",
+      "ipa": "/foʊˈdʌk.tɪv/",
+      "blend": [
+        "faux",
+        "productive"
+      ],
+      "definition": "Frantically busy all day yet somehow having done nothing that actually mattered.",
+      "example": "I colour-coded my calendar for two hours — peak fauxductive, zero output.",
+      "tags": [
+        "workplace",
+        "laziness"
+      ]
+    },
+    {
+      "id": "emailanche",
+      "word": "Emailanche",
+      "pos": "noun",
+      "ipa": "/ˈiː.meɪ.lɑːnʃ/",
+      "blend": [
+        "email",
+        "avalanche"
+      ],
+      "definition": "The crushing wall of unread mail that buries you the morning after one day off.",
+      "example": "Took a Friday, came back to a 400-message emailanche, took another Friday.",
+      "tags": [
+        "workplace",
+        "digital"
+      ]
+    },
+    {
+      "id": "cringeover",
+      "word": "Cringeover",
+      "pos": "noun",
+      "ipa": "/ˈkrɪndʒ.oʊ.vər/",
+      "blend": [
+        "cringe",
+        "hangover"
+      ],
+      "definition": "The residual full-body shame of suddenly remembering something you did in 2009.",
+      "example": "I was fine until a decade-old cringeover hit me in the shower and I audibly groaned.",
+      "tags": [
+        "brain",
+        "social"
+      ]
+    },
+    {
+      "id": "scrollnesia",
+      "word": "Scrollnesia",
+      "pos": "noun",
+      "ipa": "/skroʊlˈniː.ʒə/",
+      "blend": [
+        "scroll",
+        "amnesia"
+      ],
+      "definition": "Unlocking your phone with clear purpose and forgetting it entirely the instant you start scrolling.",
+      "example": "I opened it to text her back, got scrollnesia, and resurfaced forty minutes later.",
+      "tags": [
+        "digital",
+        "brain"
+      ]
+    },
+    {
+      "id": "snackcident",
+      "word": "Snackcident",
+      "pos": "noun",
+      "ipa": "/ˈsnæksɪdənt/",
+      "blend": [
+        "snack",
+        "accident"
+      ],
+      "definition": "When you meant to eat three chips and somehow finished the entire family-size bag.",
+      "example": "I opened the pretzels for a taste and had a full snackcident on the couch.",
+      "tags": [
+        "food",
+        "laziness",
+        "judgment"
+      ]
+    },
+    {
+      "id": "fridgeamnesia",
+      "word": "Fridgeamnesia",
+      "pos": "noun",
+      "ipa": "/frɪdʒæmˈniːʒə/",
+      "blend": [
+        "fridge",
+        "amnesia"
+      ],
+      "definition": "Standing with the fridge open, staring blankly, forgetting why you came in the first place.",
+      "example": "Third case of fridgeamnesia tonight and I still don't know what I want.",
+      "tags": [
+        "food",
+        "brain",
+        "home"
+      ]
+    },
+    {
+      "id": "leftoverlord",
+      "word": "Leftoverlord",
+      "pos": "noun",
+      "ipa": "/ˈlɛftoʊvɔːrd/",
+      "blend": [
+        "leftover",
+        "overlord"
+      ],
+      "definition": "The person who calls dibs on the good leftovers and defends them with their life.",
+      "example": "Touch the last slice of pizza and the leftoverlord will end you.",
+      "tags": [
+        "food",
+        "home",
+        "judgment"
+      ]
+    },
+    {
+      "id": "hangreh",
+      "word": "Hangreh",
+      "pos": "adjective",
+      "ipa": "/ˈhæŋɡreɪ/",
+      "blend": [
+        "hangry",
+        "meh"
+      ],
+      "definition": "Too hungry to be nice but too tired to actually make food about it.",
+      "example": "Don't ask me questions right now, I'm deeply hangreh.",
+      "tags": [
+        "food",
+        "rage",
+        "laziness"
+      ]
+    },
+    {
+      "id": "cravinistic",
+      "word": "Cravinistic",
+      "pos": "adjective",
+      "ipa": "/ˌkreɪvɪˈnɪstɪk/",
+      "blend": [
+        "craving",
+        "narcissistic"
+      ],
+      "definition": "When your craving becomes the sole main character of your entire evening.",
+      "example": "I got cravinistic about tacos and reorganized my whole night around them.",
+      "tags": [
+        "food",
+        "brain",
+        "judgment"
+      ]
+    },
+    {
+      "id": "microwavering",
+      "word": "Microwavering",
+      "pos": "verb",
+      "ipa": "/ˈmaɪkroʊweɪvərɪŋ/",
+      "blend": [
+        "microwave",
+        "wavering"
+      ],
+      "definition": "Opening the microwave three seconds early every time so it won't beep and expose you.",
+      "example": "I was microwavering my sad leftovers so nobody knew I ate at midnight.",
+      "tags": [
+        "food",
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "snoozeatery",
+      "word": "Snoozeatery",
+      "pos": "noun",
+      "ipa": "/snuːˈziːtəri/",
+      "blend": [
+        "snooze",
+        "eatery"
+      ],
+      "definition": "The 2am kitchen visit you'll have zero memory of by morning.",
+      "example": "The empty cheese wrapper proves I ran a full snoozeatery last night.",
+      "tags": [
+        "food",
+        "brain",
+        "home"
+      ]
+    },
+    {
+      "id": "guacward",
+      "word": "Guacward",
+      "pos": "adjective",
+      "ipa": "/ˈɡwɑːkwərd/",
+      "blend": [
+        "guacamole",
+        "awkward"
+      ],
+      "definition": "The tense silence after being told guac costs extra and choosing to pay anyway.",
+      "example": "It got guacward at the counter but I committed to the upcharge.",
+      "tags": [
+        "food",
+        "money",
+        "social"
+      ]
+    },
+    {
+      "id": "portionista",
+      "word": "Portionista",
+      "pos": "noun",
+      "ipa": "/pɔːrʃəˈniːstə/",
+      "blend": [
+        "portion",
+        "fashionista"
+      ],
+      "definition": "Someone who serves a modest plate, then returns for four increasingly bold refills.",
+      "example": "Classic portionista move: tiny first plate, then a mountain second.",
+      "tags": [
+        "food",
+        "judgment",
+        "health"
+      ]
+    },
+    {
+      "id": "brewtality",
+      "word": "Brewtality",
+      "pos": "noun",
+      "ipa": "/bruːˈtæləti/",
+      "blend": [
+        "brew",
+        "brutality"
+      ],
+      "definition": "The savage moment you realize the coffee pot is empty and you made none.",
+      "example": "Waking up to brewtality is the cruelest way to start a Monday.",
+      "tags": [
+        "food",
+        "rage",
+        "brain"
+      ]
+    },
+    {
+      "id": "decafeated",
+      "word": "Decafeated",
+      "pos": "adjective",
+      "ipa": "/diːkæˈfiːtɪd/",
+      "blend": [
+        "decaf",
+        "defeated"
+      ],
+      "definition": "The crushing betrayal of discovering your energizing coffee was secretly decaf.",
+      "example": "I felt utterly decafeated when I read the label an hour too late.",
+      "tags": [
+        "food",
+        "rage",
+        "brain"
+      ]
+    },
+    {
+      "id": "gorgetful",
+      "word": "Gorgetful",
+      "pos": "adjective",
+      "ipa": "/ˈɡɔːrdʒfəl/",
+      "blend": [
+        "gorge",
+        "forgetful"
+      ],
+      "definition": "So busy eating you completely forget you were already extremely full.",
+      "example": "I got gorgetful at the buffet and now I regret my whole existence.",
+      "tags": [
+        "food",
+        "health",
+        "judgment"
+      ]
+    },
+    {
+      "id": "snaxiety",
+      "word": "Snaxiety",
+      "pos": "noun",
+      "ipa": "/snækˈzaɪəti/",
+      "blend": [
+        "snack",
+        "anxiety"
+      ],
+      "definition": "The low hum of dread when you realize the good snacks are running out.",
+      "example": "Snaxiety hit hard when I saw only one granola bar left in the box.",
+      "tags": [
+        "food",
+        "brain",
+        "home"
+      ]
+    },
+    {
+      "id": "takeoutlaw",
+      "word": "Takeoutlaw",
+      "pos": "noun",
+      "ipa": "/ˈteɪkaʊtlɔː/",
+      "blend": [
+        "takeout",
+        "outlaw"
+      ],
+      "definition": "Someone who orders delivery every night while swearing tomorrow they'll cook.",
+      "example": "I've been a full takeoutlaw all week and my kitchen is pristine.",
+      "tags": [
+        "food",
+        "money",
+        "laziness"
+      ]
+    },
+    {
+      "id": "mealprepocalypse",
+      "word": "Mealprepocalypse",
+      "pos": "noun",
+      "ipa": "/miːlprɛˈpɑːkəlɪps/",
+      "blend": [
+        "meal prep",
+        "apocalypse"
+      ],
+      "definition": "When Sunday's ambitious batch of containers all rot untouched by Wednesday.",
+      "example": "Six sad tupperwares of chicken later, it was a total mealprepocalypse.",
+      "tags": [
+        "food",
+        "home",
+        "health"
+      ]
+    },
+    {
+      "id": "snoverdose",
+      "word": "Snoverdose",
+      "pos": "noun",
+      "ipa": "/ˈsnoʊvərdoʊs/",
+      "blend": [
+        "snack",
+        "overdose"
+      ],
+      "definition": "That physical regret after eating so much you can feel it in your soul.",
+      "example": "I hit a chip snoverdose and had to lie down and reconsider things.",
+      "tags": [
+        "food",
+        "health",
+        "judgment"
+      ]
+    },
+    {
+      "id": "boozamnesia",
+      "word": "Boozamnesia",
+      "pos": "noun",
+      "ipa": "/buːzæmˈniːʒə/",
+      "blend": [
+        "booze",
+        "amnesia"
+      ],
+      "definition": "The missing hour of last night that only your camera roll can partly explain.",
+      "example": "Full boozamnesia after the third round; who is this person in my selfies?",
+      "tags": [
+        "hangover",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "tacoverload",
+      "word": "Tacoverload",
+      "pos": "noun",
+      "ipa": "/ˈtɑːkoʊvərloʊd/",
+      "blend": [
+        "taco",
+        "overload"
+      ],
+      "definition": "The exact moment taco number five becomes a genuine mistake you can't undo.",
+      "example": "I reached tacoverload but kept going out of pure stubborn pride.",
+      "tags": [
+        "food",
+        "health",
+        "judgment"
+      ]
+    },
+    {
+      "id": "fridgemare",
+      "word": "Fridgemare",
+      "pos": "noun",
+      "ipa": "/ˈfrɪdʒmɛər/",
+      "blend": [
+        "fridge",
+        "nightmare"
+      ],
+      "definition": "Opening a mystery container and being assaulted by something that used to be food.",
+      "example": "I opened the back of the fridge and a fridgemare stared back at me.",
+      "tags": [
+        "food",
+        "home",
+        "absurd"
+      ]
+    },
+    {
+      "id": "caffiend",
+      "word": "Caffiend",
+      "pos": "noun",
+      "ipa": "/kæˈfiːnd/",
+      "blend": [
+        "caffeine",
+        "fiend"
+      ],
+      "definition": "A person who is legally unpleasant until the first cup of coffee lands.",
+      "example": "Don't talk to the caffiend before 9am unless you enjoy suffering.",
+      "tags": [
+        "food",
+        "brain",
+        "rage"
+      ]
+    },
+    {
+      "id": "noshtalgia",
+      "word": "Noshtalgia",
+      "pos": "noun",
+      "ipa": "/nɒʃˈtældʒə/",
+      "blend": [
+        "nosh",
+        "nostalgia"
+      ],
+      "definition": "The deep ache for a childhood snack that no longer tastes how you remember.",
+      "example": "I bought those cookies out of noshtalgia and my heart quietly broke.",
+      "tags": [
+        "food",
+        "brain",
+        "social"
+      ]
+    },
+    {
+      "id": "drinkxiety",
+      "word": "Drinkxiety",
+      "pos": "noun",
+      "ipa": "/drɪŋkˈzaɪəti/",
+      "blend": [
+        "drink",
+        "anxiety"
+      ],
+      "definition": "The 3am fear that you said something unforgivable after round four.",
+      "example": "Drinkxiety woke me at dawn to replay every conversation in horror.",
+      "tags": [
+        "hangover",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "pantraid",
+      "word": "Pantraid",
+      "pos": "verb",
+      "ipa": "/ˈpæntreɪd/",
+      "blend": [
+        "pantry",
+        "raid"
+      ],
+      "definition": "To ransack every cabinet hunting for a snack that you know isn't there.",
+      "example": "I pantraided the whole kitchen and settled for stale crackers again.",
+      "tags": [
+        "food",
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "bingeret",
+      "word": "Bingeret",
+      "pos": "noun",
+      "ipa": "/ˈbɪndʒrɛt/",
+      "blend": [
+        "binge",
+        "regret"
+      ],
+      "definition": "The heavy silence that follows eating an entire pint of ice cream alone.",
+      "example": "The empty carton and my bingeret are the only witnesses to tonight.",
+      "tags": [
+        "food",
+        "health",
+        "judgment"
+      ]
+    },
+    {
+      "id": "souperior",
+      "word": "Souperior",
+      "pos": "adjective",
+      "ipa": "/suːˈpɪəriər/",
+      "blend": [
+        "soup",
+        "superior"
+      ],
+      "definition": "Smugly convinced your homemade soup is better than anyone else's attempt.",
+      "example": "He got real souperior about his broth and wouldn't share the recipe.",
+      "tags": [
+        "food",
+        "judgment",
+        "social"
+      ]
+    },
+    {
+      "id": "hangoverture",
+      "word": "Hangoverture",
+      "pos": "noun",
+      "ipa": "/ˈhæŋoʊvərtʃər/",
+      "blend": [
+        "hangover",
+        "overture"
+      ],
+      "definition": "That first dreadful wave of nausea that signals the whole day is ruined.",
+      "example": "The hangoverture started before I even opened my eyes this morning.",
+      "tags": [
+        "hangover",
+        "health",
+        "brain"
+      ]
+    },
+    {
+      "id": "snackrament",
+      "word": "Snackrament",
+      "pos": "noun",
+      "ipa": "/ˈsnækrəmənt/",
+      "blend": [
+        "snack",
+        "sacrament"
+      ],
+      "definition": "The sacred late-night ritual snack you refuse to skip no matter what.",
+      "example": "Midnight cereal is my snackrament and no diet will take it from me.",
+      "tags": [
+        "food",
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "choreoscoffing",
+      "word": "Choreoscoffing",
+      "pos": "verb",
+      "ipa": "/ˌkɔːrioʊˈskɒfɪŋ/",
+      "blend": [
+        "chore",
+        "scoffing"
+      ],
+      "definition": "Eating standing over the counter to avoid dirtying an actual plate.",
+      "example": "I was choreoscoffing dinner straight from the pan again tonight.",
+      "tags": [
+        "food",
+        "laziness",
+        "home"
+      ]
+    },
+    {
+      "id": "overpourment",
+      "word": "Overpourment",
+      "pos": "noun",
+      "ipa": "/oʊvərˈpɔːrmənt/",
+      "blend": [
+        "overpour",
+        "judgment"
+      ],
+      "definition": "The reckless home wine pour that would get a bartender immediately fired.",
+      "example": "My glass hit critical overpourment and that's why today hurts.",
+      "tags": [
+        "hangover",
+        "home",
+        "judgment"
+      ]
+    },
+    {
+      "id": "grocerlie",
+      "word": "Grocerlie",
+      "pos": "noun",
+      "ipa": "/ˈɡroʊsərlaɪ/",
+      "blend": [
+        "grocery",
+        "lie"
+      ],
+      "definition": "The healthy shopping list you swap for chips and wine at the store.",
+      "example": "My grocerlie said kale but my cart is pure snacks and denial.",
+      "tags": [
+        "food",
+        "money",
+        "judgment"
+      ]
+    },
+    {
+      "id": "nomsense",
+      "word": "Nomsense",
+      "pos": "noun",
+      "ipa": "/ˈnɒmsɛns/",
+      "blend": [
+        "nom",
+        "nonsense"
+      ],
+      "definition": "The unhinged food combinations you invent alone that no witness would approve.",
+      "example": "Peanut butter on pickles is my nomsense and I regret nothing.",
+      "tags": [
+        "food",
+        "absurd",
+        "home"
+      ]
+    },
+    {
+      "id": "dietbetes",
+      "word": "Dietbetes",
+      "pos": "noun",
+      "ipa": "/ˈdaɪətbiːts/",
+      "blend": [
+        "diet",
+        "betrayal"
+      ],
+      "definition": "When your strict new diet dies quietly the moment dessert enters the room.",
+      "example": "Day two of the plan and dietbetes claimed me at the office cake.",
+      "tags": [
+        "food",
+        "health",
+        "judgment"
+      ]
+    },
+    {
+      "id": "crumbsurgency",
+      "word": "Crumbsurgency",
+      "pos": "noun",
+      "ipa": "/krʌmˈbɜːrdʒənsi/",
+      "blend": [
+        "crumb",
+        "urgency"
+      ],
+      "definition": "The desperate hunt through couch cushions for one last surviving chip.",
+      "example": "Crumbsurgency set in and I was excavating the sofa for snack fossils.",
+      "tags": [
+        "food",
+        "laziness",
+        "absurd"
+      ]
+    },
+    {
+      "id": "toastalgia",
+      "word": "Toastalgia",
+      "pos": "noun",
+      "ipa": "/toʊˈstældʒə/",
+      "blend": [
+        "toast",
+        "nostalgia"
+      ],
+      "definition": "The quiet grief of watching your perfect toast get burnt beyond saving.",
+      "example": "I felt real toastalgia scraping the black off my last slice of bread.",
+      "tags": [
+        "food",
+        "home",
+        "absurd"
+      ]
+    },
+    {
+      "id": "sipster",
+      "word": "Sipster",
+      "pos": "noun",
+      "ipa": "/ˈsɪpstər/",
+      "blend": [
+        "sip",
+        "hipster"
+      ],
+      "definition": "Someone who narrates every tasting note of a drink nobody asked about.",
+      "example": "The sipster held the wine to the light and delivered a full monologue.",
+      "tags": [
+        "food",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "reheatache",
+      "word": "Reheatache",
+      "pos": "noun",
+      "ipa": "/riːˈhiːteɪk/",
+      "blend": [
+        "reheat",
+        "heartache"
+      ],
+      "definition": "The letdown of leftovers that were incredible fresh and tragic reheated.",
+      "example": "That reheatache from yesterday's fries broke something inside me.",
+      "tags": [
+        "food",
+        "home",
+        "judgment"
+      ]
+    },
+    {
+      "id": "munchmatized",
+      "word": "Munchmatized",
+      "pos": "adjective",
+      "ipa": "/ˈmʌntʃmətaɪzd/",
+      "blend": [
+        "munch",
+        "hypnotized"
+      ],
+      "definition": "So zoned into a show you eat the whole bag without tasting a single bite.",
+      "example": "I got munchmatized by the series and the popcorn just evaporated.",
+      "tags": [
+        "food",
+        "digital",
+        "brain"
+      ]
+    },
+    {
+      "id": "spillennial",
+      "word": "Spillennial",
+      "pos": "noun",
+      "ipa": "/spɪˈlɛniəl/",
+      "blend": [
+        "spill",
+        "millennial"
+      ],
+      "definition": "Someone who cannot carry a full coffee cup across a room without disaster.",
+      "example": "Classic spillennial, wearing half my latte before I even sat down.",
+      "tags": [
+        "food",
+        "absurd",
+        "home"
+      ]
+    },
+    {
+      "id": "boozephoria",
+      "word": "Boozephoria",
+      "pos": "noun",
+      "ipa": "/buːˈzɔːfɔːriə/",
+      "blend": [
+        "booze",
+        "euphoria"
+      ],
+      "definition": "The golden two-drink window before everything tilts toward regret.",
+      "example": "I chased that boozephoria one drink too far and paid dearly.",
+      "tags": [
+        "hangover",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "cheatrospect",
+      "word": "Cheatrospect",
+      "pos": "noun",
+      "ipa": "/ˈtʃiːtroʊspɛkt/",
+      "blend": [
+        "cheat",
+        "retrospect"
+      ],
+      "definition": "Realizing your one cheat meal quietly became a five-day cheat marathon.",
+      "example": "In cheatrospect, the diet ended somewhere around that second pizza.",
+      "tags": [
+        "food",
+        "health",
+        "judgment"
+      ]
+    },
+    {
+      "id": "forkfibbing",
+      "word": "Forkfibbing",
+      "pos": "verb",
+      "ipa": "/ˈfɔːrkfɪbɪŋ/",
+      "blend": [
+        "fork",
+        "fibbing"
+      ],
+      "definition": "Claiming you'll just have one bite of someone's dessert, then half of it.",
+      "example": "He kept forkfibbing my cake until only a sad crumb remained.",
+      "tags": [
+        "food",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "foodcoman",
+      "word": "Foodcoman",
+      "pos": "noun",
+      "ipa": "/ˈfuːdkoʊmən/",
+      "blend": [
+        "food coma",
+        "command"
+      ],
+      "definition": "The heavy post-feast paralysis where the couch becomes your final destination.",
+      "example": "After Thanksgiving the foodcoman took me and I moved for nobody.",
+      "tags": [
+        "food",
+        "laziness",
+        "health"
+      ]
+    },
+    {
+      "id": "delivguilt",
+      "word": "Delivguilt",
+      "pos": "noun",
+      "ipa": "/dɪˈlɪvɡɪlt/",
+      "blend": [
+        "delivery",
+        "guilt"
+      ],
+      "definition": "The shame of tipping poorly then hiding when the driver texts you back.",
+      "example": "Delivguilt kept me from the door for a full five minutes.",
+      "tags": [
+        "food",
+        "money",
+        "social"
+      ]
+    },
+    {
+      "id": "snackamole",
+      "word": "Snackamole",
+      "pos": "verb",
+      "ipa": "/ˈsnækəmoʊl/",
+      "blend": [
+        "snack",
+        "whack-a-mole"
+      ],
+      "definition": "Eating one craving only for a totally new craving to instantly pop up.",
+      "example": "I snackamoled all evening, chasing salty then sweet then salty again.",
+      "tags": [
+        "food",
+        "brain",
+        "laziness"
+      ]
+    },
+    {
+      "id": "beerpentance",
+      "word": "Beerpentance",
+      "pos": "noun",
+      "ipa": "/bɪərˈpɛntəns/",
+      "blend": [
+        "beer",
+        "repentance"
+      ],
+      "definition": "The solemn morning vow to never drink again that lasts until roughly Friday.",
+      "example": "Full beerpentance at 8am, completely forgotten by happy hour.",
+      "tags": [
+        "hangover",
+        "health",
+        "judgment"
+      ]
+    },
+    {
+      "id": "crispiration",
+      "word": "Crispiration",
+      "pos": "noun",
+      "ipa": "/krɪspəˈreɪʃən/",
+      "blend": [
+        "crisp",
+        "desperation"
+      ],
+      "definition": "The urgent need to hear the crunch of chips when your day has fallen apart.",
+      "example": "Bad news hit and pure crispiration drove me straight to the snack aisle.",
+      "tags": [
+        "food",
+        "brain",
+        "judgment"
+      ]
+    },
+    {
+      "id": "sobersorry",
+      "word": "Sobersorry",
+      "pos": "noun",
+      "ipa": "/ˈsoʊbərsɒri/",
+      "blend": [
+        "sober",
+        "sorry"
+      ],
+      "definition": "The morning-after apology tour for texts you don't remember sending.",
+      "example": "I began my sobersorry rounds before I'd even finished the aspirin.",
+      "tags": [
+        "hangover",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "nibblivion",
+      "word": "Nibblivion",
+      "pos": "noun",
+      "ipa": "/nɪˈblɪviən/",
+      "blend": [
+        "nibble",
+        "oblivion"
+      ],
+      "definition": "The trance where you keep picking at food until the whole plate vanishes.",
+      "example": "I drifted into nibblivion over the cheese board and it just disappeared.",
+      "tags": [
+        "food",
+        "brain",
+        "social"
+      ]
+    },
+    {
+      "id": "calendarrhea",
+      "word": "Calendarrhea",
+      "pos": "noun",
+      "ipa": "/ˌkæl.ənˈdɪər.i.ə/",
+      "blend": [
+        "calendar",
+        "diarrhea"
+      ],
+      "definition": "The uncontrollable flood of meetings that fills every open slot on your calendar.",
+      "example": "I blocked lunch but the calendarrhea leaked in three syncs anyway.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "rage"
+      ]
+    },
+    {
+      "id": "replyallpocalypse",
+      "word": "Replyallpocalypse",
+      "pos": "noun",
+      "ipa": "/rɪˌplaɪˈɔːlˌpɒk.ə.lɪps/",
+      "blend": [
+        "reply-all",
+        "apocalypse"
+      ],
+      "definition": "The company-wide email disaster when hundreds hit reply-all to say stop replying-all.",
+      "example": "My inbox hit 400 unread during the replyallpocalypse over the office fridge.",
+      "tags": [
+        "workplace",
+        "digital",
+        "rage"
+      ]
+    },
+    {
+      "id": "zoombardment",
+      "word": "Zoombardment",
+      "pos": "noun",
+      "ipa": "/zuːmˈbɑːrd.mənt/",
+      "blend": [
+        "zoom",
+        "bombardment"
+      ],
+      "definition": "Being pummeled by back-to-back video calls with no gap to breathe.",
+      "example": "Seven straight calls of zoombardment and I haven't stood up since dawn.",
+      "tags": [
+        "workplace",
+        "digital",
+        "rage"
+      ]
+    },
+    {
+      "id": "slackxiety",
+      "word": "Slackxiety",
+      "pos": "noun",
+      "ipa": "/slækˈzaɪ.ə.ti/",
+      "blend": [
+        "slack",
+        "anxiety"
+      ],
+      "definition": "The low-grade dread of a bolded unread channel you're too scared to open.",
+      "example": "That red badge gave me slackxiety all through my supposed day off.",
+      "tags": [
+        "workplace",
+        "digital",
+        "brain"
+      ]
+    },
+    {
+      "id": "cubiclaustrophobia",
+      "word": "Cubiclaustrophobia",
+      "pos": "noun",
+      "ipa": "/ˌkjuːbɪk.lɔːstrəˈfoʊ.bi.ə/",
+      "blend": [
+        "cubicle",
+        "claustrophobia"
+      ],
+      "definition": "The suffocating panic of spending nine hours boxed inside a beige fabric cell.",
+      "example": "By 3 p.m. the cubiclaustrophobia hit and I fled to the stairwell.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "health"
+      ]
+    },
+    {
+      "id": "jargonaut",
+      "word": "Jargonaut",
+      "pos": "noun",
+      "ipa": "/ˈdʒɑːr.ɡə.nɔːt/",
+      "blend": [
+        "jargon",
+        "astronaut"
+      ],
+      "definition": "A coworker who boldly explores new frontiers of meaningless corporate buzzwords.",
+      "example": "Our resident jargonaut wants to leverage synergies to ideate a paradigm.",
+      "tags": [
+        "workplace",
+        "judgment",
+        "absurd"
+      ]
+    },
+    {
+      "id": "deadlinesia",
+      "word": "Deadlinesia",
+      "pos": "noun",
+      "ipa": "/ˌdɛd.laɪnˈiː.ʒə/",
+      "blend": [
+        "deadline",
+        "amnesia"
+      ],
+      "definition": "Completely forgetting a due date until the exact moment it's already overdue.",
+      "example": "Full deadlinesia struck me the second the client asked where the report was.",
+      "tags": [
+        "workplace",
+        "brain",
+        "absurd"
+      ]
+    },
+    {
+      "id": "commutilation",
+      "word": "Commutilation",
+      "pos": "noun",
+      "ipa": "/kəˌmjuːtɪˈleɪ.ʃən/",
+      "blend": [
+        "commute",
+        "mutilation"
+      ],
+      "definition": "The daily soul-crushing damage inflicted by a two-hour crawl to the office.",
+      "example": "I arrive hollowed out from the commutilation before my day even begins.",
+      "tags": [
+        "travel",
+        "workplace",
+        "rage"
+      ]
+    },
+    {
+      "id": "standupidity",
+      "word": "Standupidity",
+      "pos": "noun",
+      "ipa": "/ˌstændˈjuːpɪd.ə.ti/",
+      "blend": [
+        "standup",
+        "stupidity"
+      ],
+      "definition": "The pointless daily standup where nine people watch two people talk.",
+      "example": "Twenty minutes of standupidity to say we're all still blocked on legal.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "judgment"
+      ]
+    },
+    {
+      "id": "onboardom",
+      "word": "Onboardom",
+      "pos": "noun",
+      "ipa": "/ɒnˈbɔːr.dəm/",
+      "blend": [
+        "onboarding",
+        "boredom"
+      ],
+      "definition": "The crushing tedium of week-one training videos no human has ever finished.",
+      "example": "I fell into deep onboardom somewhere around the fifth compliance module.",
+      "tags": [
+        "workplace",
+        "laziness",
+        "absurd"
+      ]
+    },
+    {
+      "id": "muterupt",
+      "word": "Muterupt",
+      "pos": "verb",
+      "ipa": "/ˈmjuːt.ə.rʌpt/",
+      "blend": [
+        "mute",
+        "interrupt"
+      ],
+      "definition": "To passionately deliver a full answer while completely muted on the call.",
+      "example": "He muterupted for a solid minute before someone typed you're on mute.",
+      "tags": [
+        "workplace",
+        "digital",
+        "absurd"
+      ]
+    },
+    {
+      "id": "agendache",
+      "word": "Agendache",
+      "pos": "noun",
+      "ipa": "/əˈdʒɛn.deɪk/",
+      "blend": [
+        "agenda",
+        "headache"
+      ],
+      "definition": "The throbbing pain of a meeting invite with fourteen items and no clear point.",
+      "example": "That kickoff agenda gave me an agendache before the call even started.",
+      "tags": [
+        "workplace",
+        "health",
+        "rage"
+      ]
+    },
+    {
+      "id": "powerpointless",
+      "word": "Powerpointless",
+      "pos": "adjective",
+      "ipa": "/ˌpaʊ.ərˈpɔɪnt.ləs/",
+      "blend": [
+        "powerpoint",
+        "pointless"
+      ],
+      "definition": "Describing a forty-slide deck that could have been a single-line email.",
+      "example": "His entirely powerpointless review took an hour to say we're on track.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "judgment"
+      ]
+    },
+    {
+      "id": "coworkward",
+      "word": "Coworkward",
+      "pos": "adjective",
+      "ipa": "/koʊˈwɜːrk.wərd/",
+      "blend": [
+        "coworker",
+        "awkward"
+      ],
+      "definition": "That excruciating hallway moment when you re-greet someone you already greeted.",
+      "example": "We hit peak coworkward passing each other three times near the printer.",
+      "tags": [
+        "workplace",
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "bosstile",
+      "word": "Bosstile",
+      "pos": "adjective",
+      "ipa": "/ˈbɒs.taɪl/",
+      "blend": [
+        "boss",
+        "hostile"
+      ],
+      "definition": "Describing a manager whose feedback always feels like a personal ambush.",
+      "example": "Her bosstile tone turned a routine check-in into a full interrogation.",
+      "tags": [
+        "workplace",
+        "rage",
+        "judgment"
+      ]
+    },
+    {
+      "id": "deskape",
+      "word": "Deskape",
+      "pos": "verb",
+      "ipa": "/dɛˈskeɪp/",
+      "blend": [
+        "desk",
+        "escape"
+      ],
+      "definition": "To flee your desk the instant a difficult coworker starts walking over.",
+      "example": "I deskaped to the kitchen the second I saw him rise with that face.",
+      "tags": [
+        "workplace",
+        "laziness",
+        "social"
+      ]
+    },
+    {
+      "id": "feedbackfire",
+      "word": "Feedbackfire",
+      "pos": "noun",
+      "ipa": "/ˈfiːd.bækˌfaɪər/",
+      "blend": [
+        "feedback",
+        "backfire"
+      ],
+      "definition": "When your polite suggestion somehow becomes the reason you're now leading it.",
+      "example": "Classic feedbackfire: I noted the gap and now I own the whole rollout.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "rage"
+      ]
+    },
+    {
+      "id": "zoomnesia",
+      "word": "Zoomnesia",
+      "pos": "noun",
+      "ipa": "/zuːmˈniː.ʒə/",
+      "blend": [
+        "zoom",
+        "amnesia"
+      ],
+      "definition": "Forgetting your camera is on and mic is live at the worst possible second.",
+      "example": "Zoomnesia struck as I muttered this is stupid to my entire leadership team.",
+      "tags": [
+        "workplace",
+        "digital",
+        "brain"
+      ]
+    },
+    {
+      "id": "slackrastinate",
+      "word": "Slackrastinate",
+      "pos": "verb",
+      "ipa": "/ˌslæk.rəˈstɪ.neɪt/",
+      "blend": [
+        "slack",
+        "procrastinate"
+      ],
+      "definition": "To look busy typing thoughtful messages instead of doing any real work.",
+      "example": "I slackrastinated all morning replying with insightful emoji reactions.",
+      "tags": [
+        "workplace",
+        "laziness",
+        "digital"
+      ]
+    },
+    {
+      "id": "circlebackitis",
+      "word": "Circlebackitis",
+      "pos": "noun",
+      "ipa": "/ˌsɜːr.kəlˈbæk.aɪ.tɪs/",
+      "blend": [
+        "circle back",
+        "-itis"
+      ],
+      "definition": "The chronic condition of ending every meeting by promising to circle back later.",
+      "example": "His circlebackitis means nothing is ever actually decided in the room.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "judgment"
+      ]
+    },
+    {
+      "id": "quotaclysm",
+      "word": "Quotaclysm",
+      "pos": "noun",
+      "ipa": "/ˈkwoʊ.tə.klɪz.əm/",
+      "blend": [
+        "quota",
+        "cataclysm"
+      ],
+      "definition": "The end-of-quarter meltdown when the whole team is nowhere near its numbers.",
+      "example": "Sales entered full quotaclysm mode with four days and half the pipeline.",
+      "tags": [
+        "workplace",
+        "money",
+        "rage"
+      ]
+    },
+    {
+      "id": "bosshole",
+      "word": "Bosshole",
+      "pos": "noun",
+      "ipa": "/ˈbɒs.hoʊl/",
+      "blend": [
+        "boss",
+        "asshole"
+      ],
+      "definition": "A manager who takes full credit for wins and full cover during losses.",
+      "example": "The bosshole presented my deck as his own and forgot my name onstage.",
+      "tags": [
+        "workplace",
+        "rage",
+        "judgment"
+      ]
+    },
+    {
+      "id": "synergush",
+      "word": "Synergush",
+      "pos": "verb",
+      "ipa": "/ˈsɪn.ər.ɡʌʃ/",
+      "blend": [
+        "synergy",
+        "gush"
+      ],
+      "definition": "To breathlessly overuse the word synergy in a desperate bid to sound strategic.",
+      "example": "He synergushed through the whole pitch until the investors quietly left.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "judgment"
+      ]
+    },
+    {
+      "id": "chairborne",
+      "word": "Chairborne",
+      "pos": "adjective",
+      "ipa": "/ˈtʃɛər.bɔːrn/",
+      "blend": [
+        "chair",
+        "airborne"
+      ],
+      "definition": "Describing an employee who hasn't stood up since the morning stand-up.",
+      "example": "I've been fully chairborne for six hours and my legs have forgotten walking.",
+      "tags": [
+        "workplace",
+        "laziness",
+        "health"
+      ]
+    },
+    {
+      "id": "perkscuse",
+      "word": "Perkscuse",
+      "pos": "noun",
+      "ipa": "/ˈpɜːrk.skjuːs/",
+      "blend": [
+        "perk",
+        "excuse"
+      ],
+      "definition": "A ping-pong table dangled to justify paying you far below market rate.",
+      "example": "Free kombucha is just a perkscuse for a salary that hasn't moved in years.",
+      "tags": [
+        "workplace",
+        "money",
+        "judgment"
+      ]
+    },
+    {
+      "id": "micromanagony",
+      "word": "Micromanagony",
+      "pos": "noun",
+      "ipa": "/ˌmaɪ.kroʊ.məˈnæ.ɡə.ni/",
+      "blend": [
+        "micromanage",
+        "agony"
+      ],
+      "definition": "The slow torture of a boss reviewing every comma before you hit send.",
+      "example": "The micromanagony of her editing my out-of-office reply broke my spirit.",
+      "tags": [
+        "workplace",
+        "rage",
+        "health"
+      ]
+    },
+    {
+      "id": "kudocrisy",
+      "word": "Kudocrisy",
+      "pos": "noun",
+      "ipa": "/kjuːˈdɒk.rə.si/",
+      "blend": [
+        "kudos",
+        "hypocrisy"
+      ],
+      "definition": "Hollow public praise from a boss who fights your raise behind closed doors.",
+      "example": "The all-hands kudocrisy stung once payroll showed the same tired number.",
+      "tags": [
+        "workplace",
+        "money",
+        "judgment"
+      ]
+    },
+    {
+      "id": "overtimezone",
+      "word": "Overtimezone",
+      "pos": "noun",
+      "ipa": "/ˌoʊ.vərˈtaɪm.zoʊn/",
+      "blend": [
+        "overtime",
+        "timezone"
+      ],
+      "definition": "The endless workday you get when your team is scattered across five zones.",
+      "example": "Living in overtimezone means someone's always awake to ping me at 2 a.m.",
+      "tags": [
+        "workplace",
+        "travel",
+        "rage"
+      ]
+    },
+    {
+      "id": "ganttrum",
+      "word": "Ganttrum",
+      "pos": "noun",
+      "ipa": "/ˈɡænt.rəm/",
+      "blend": [
+        "gantt",
+        "tantrum"
+      ],
+      "definition": "A project manager's meltdown when reality refuses to match the color-coded timeline.",
+      "example": "He threw a full ganttrum when one dependency slipped by a single day.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "rage"
+      ]
+    },
+    {
+      "id": "touchbaseless",
+      "word": "Touchbaseless",
+      "pos": "adjective",
+      "ipa": "/ˈtʌtʃˌbeɪs.ləs/",
+      "blend": [
+        "touch base",
+        "baseless"
+      ],
+      "definition": "Describing a check-in meeting with zero agenda, purpose, or reason to exist.",
+      "example": "That touchbaseless call ate thirty minutes so we could agree to talk later.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "judgment"
+      ]
+    },
+    {
+      "id": "pingxiety",
+      "word": "Pingxiety",
+      "pos": "noun",
+      "ipa": "/pɪŋˈzaɪ.ə.ti/",
+      "blend": [
+        "ping",
+        "anxiety"
+      ],
+      "definition": "The jolt of dread every time a notification pops up long after 6 p.m.",
+      "example": "A single late ping gave me pingxiety that ruined the whole evening.",
+      "tags": [
+        "workplace",
+        "digital",
+        "brain"
+      ]
+    },
+    {
+      "id": "deckrepit",
+      "word": "Deckrepit",
+      "pos": "adjective",
+      "ipa": "/dɛkˈrɛp.ɪt/",
+      "blend": [
+        "deck",
+        "decrepit"
+      ],
+      "definition": "Describing a slide deck last updated in 2019 that everyone still forwards around.",
+      "example": "We pitched off a deckrepit template with a logo the company retired ages ago.",
+      "tags": [
+        "workplace",
+        "digital",
+        "absurd"
+      ]
+    },
+    {
+      "id": "weekendless",
+      "word": "Weekendless",
+      "pos": "adjective",
+      "ipa": "/ˈwiːkˌɛnd.ləs/",
+      "blend": [
+        "weekend",
+        "endless"
+      ],
+      "definition": "Describing a Saturday quietly swallowed whole by one urgent work request.",
+      "example": "Another weekendless stretch because someone flagged the deck as critical.",
+      "tags": [
+        "workplace",
+        "rage",
+        "home"
+      ]
+    },
+    {
+      "id": "deskcalate",
+      "word": "Deskcalate",
+      "pos": "verb",
+      "ipa": "/ˈdɛs.kə.leɪt/",
+      "blend": [
+        "desk",
+        "escalate"
+      ],
+      "definition": "To turn a tiny question into a nine-person email thread from your desk.",
+      "example": "Instead of asking, she deskcalated it straight to the VP and two directors.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "digital"
+      ]
+    },
+    {
+      "id": "cclamity",
+      "word": "Cclamity",
+      "pos": "noun",
+      "ipa": "/siːˈsiːˌlæm.ə.ti/",
+      "blend": [
+        "cc",
+        "calamity"
+      ],
+      "definition": "The disaster of being cc'd into a war you never wanted anything to do with.",
+      "example": "I opened my inbox to a forty-message cclamity between two other teams.",
+      "tags": [
+        "workplace",
+        "digital",
+        "rage"
+      ]
+    },
+    {
+      "id": "boredroom",
+      "word": "Boredroom",
+      "pos": "noun",
+      "ipa": "/ˈbɔːr.druːm/",
+      "blend": [
+        "bored",
+        "boardroom"
+      ],
+      "definition": "The conference room where good ideas quietly go to die of slow suffocation.",
+      "example": "We booked the boredroom for two hours to reach absolutely no decision.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "laziness"
+      ]
+    },
+    {
+      "id": "overheadcount",
+      "word": "Overheadcount",
+      "pos": "noun",
+      "ipa": "/ˈoʊ.vərˌhɛd.kaʊnt/",
+      "blend": [
+        "overhead",
+        "headcount"
+      ],
+      "definition": "Mass layoffs cheerfully rebranded by leadership as a smart cost optimization.",
+      "example": "The memo called the overheadcount a bold step toward a leaner future.",
+      "tags": [
+        "workplace",
+        "money",
+        "judgment"
+      ]
+    },
+    {
+      "id": "deadlinsomnia",
+      "word": "Deadlinsomnia",
+      "pos": "noun",
+      "ipa": "/ˌdɛd.lɪnˈsɒm.ni.ə/",
+      "blend": [
+        "deadline",
+        "insomnia"
+      ],
+      "definition": "Lying awake at 3 a.m. mentally rehearsing a project that's due at nine.",
+      "example": "Deadlinsomnia had me rewriting the intro in my head until sunrise.",
+      "tags": [
+        "workplace",
+        "health",
+        "brain"
+      ]
+    },
+    {
+      "id": "meetriage",
+      "word": "Meetriage",
+      "pos": "noun",
+      "ipa": "/ˈmiːt.ri.ɑːʒ/",
+      "blend": [
+        "meeting",
+        "triage"
+      ],
+      "definition": "The frantic five minutes of prepping for a meeting you completely forgot about.",
+      "example": "I did emergency meetriage while the call was literally ringing in.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "brain"
+      ]
+    },
+    {
+      "id": "corporobot",
+      "word": "Corporobot",
+      "pos": "noun",
+      "ipa": "/ˈkɔːr.pə.roʊ.bɒt/",
+      "blend": [
+        "corporate",
+        "robot"
+      ],
+      "definition": "A once-lively human slowly reprogrammed to speak only in mission statements.",
+      "example": "He used to be fun before becoming a corporobot who circles back on synergies.",
+      "tags": [
+        "workplace",
+        "absurd",
+        "judgment"
+      ]
+    },
+    {
+      "id": "quarterlypse",
+      "word": "Quarterlypse",
+      "pos": "noun",
+      "ipa": "/ˈkwɔːr.tər.lɪps/",
+      "blend": [
+        "quarterly",
+        "apocalypse"
+      ],
+      "definition": "The company-wide panic that erupts in the final week of every quarter.",
+      "example": "The quarterlypse arrived and suddenly everything was a top priority.",
+      "tags": [
+        "workplace",
+        "money",
+        "rage"
+      ]
+    },
+    {
+      "id": "promoteased",
+      "word": "Promoteased",
+      "pos": "adjective",
+      "ipa": "/prəˈmoʊ.tiːzd/",
+      "blend": [
+        "promotion",
+        "teased"
+      ],
+      "definition": "Describing the raise dangled at every review but somehow never actually given.",
+      "example": "I've been promoteased for three cycles with next quarter for sure.",
+      "tags": [
+        "workplace",
+        "money",
+        "judgment"
+      ]
+    },
+    {
+      "id": "pajameeting",
+      "word": "Pajameeting",
+      "pos": "noun",
+      "ipa": "/pəˈdʒɑː.miː.tɪŋ/",
+      "blend": [
+        "pajamas",
+        "meeting"
+      ],
+      "definition": "A remote call where you wear a crisp shirt on top and pajama pants below.",
+      "example": "The pajameeting collapsed the moment I stood up to grab my charger.",
+      "tags": [
+        "workplace",
+        "home",
+        "digital"
+      ]
+    },
+    {
+      "id": "wifidgety",
+      "word": "Wifidgety",
+      "pos": "adjective",
+      "ipa": "/waɪˈfɪdʒ.ə.ti/",
+      "blend": [
+        "wifi",
+        "fidgety"
+      ],
+      "definition": "Anxiously panicking as your connection drops during your one big presentation.",
+      "example": "I got wifidgety watching the bars vanish right as the CEO joined.",
+      "tags": [
+        "workplace",
+        "digital",
+        "home"
+      ]
+    },
+    {
+      "id": "loomsday",
+      "word": "Loomsday",
+      "pos": "noun",
+      "ipa": "/ˈluːmz.deɪ/",
+      "blend": [
+        "looming",
+        "doomsday"
+      ],
+      "definition": "The dreaded date a massive deadline finally arrives to collect what you owe.",
+      "example": "Loomsday is Friday and I still haven't opened the actual spreadsheet.",
+      "tags": [
+        "workplace",
+        "rage",
+        "brain"
+      ]
+    },
+    {
+      "id": "slacklash",
+      "word": "Slacklash",
+      "pos": "noun",
+      "ipa": "/ˈslæk.læʃ/",
+      "blend": [
+        "slack",
+        "backlash"
+      ],
+      "definition": "A passive-aggressive reply crafted from three cold words and a period.",
+      "example": "His slacklash of noted. was somehow more terrifying than a full paragraph.",
+      "tags": [
+        "workplace",
+        "digital",
+        "social"
+      ]
+    },
+    {
+      "id": "careerplexed",
+      "word": "Careerplexed",
+      "pos": "adjective",
+      "ipa": "/kəˈrɪər.plɛkst/",
+      "blend": [
+        "career",
+        "perplexed"
+      ],
+      "definition": "Having absolutely no idea what your job title actually means or leads to.",
+      "example": "Five years in and still careerplexed about what a strategist even does.",
+      "tags": [
+        "workplace",
+        "brain",
+        "absurd"
+      ]
+    },
+    {
+      "id": "layoffended",
+      "word": "Layoffended",
+      "pos": "adjective",
+      "ipa": "/ˌleɪˈɔː.fɛn.dɪd/",
+      "blend": [
+        "layoff",
+        "offended"
+      ],
+      "definition": "Weirdly insulted that the company managed to survive just fine without you.",
+      "example": "I'm honestly layoffended their stock went up the week after I left.",
+      "tags": [
+        "workplace",
+        "money",
+        "rage"
+      ]
+    },
+    {
+      "id": "bonusion",
+      "word": "Bonusion",
+      "pos": "noun",
+      "ipa": "/ˈboʊ.nə.ʒən/",
+      "blend": [
+        "bonus",
+        "illusion"
+      ],
+      "definition": "The year-end reward promised in every meeting that mysteriously never arrives.",
+      "example": "The bonusion evaporated the same week they announced record profits.",
+      "tags": [
+        "workplace",
+        "money",
+        "judgment"
+      ]
+    },
+    {
+      "id": "clockroach",
+      "word": "Clockroach",
+      "pos": "noun",
+      "ipa": "/ˈklɒk.roʊtʃ/",
+      "blend": [
+        "clock",
+        "cockroach"
+      ],
+      "definition": "The coworker who does nothing yet somehow survives every round of layoffs.",
+      "example": "The whole team got cut but the office clockroach is still here, thriving.",
+      "tags": [
+        "workplace",
+        "laziness",
+        "judgment"
+      ]
+    },
+    {
+      "id": "phantombuzz",
+      "word": "Phantombuzz",
+      "pos": "noun",
+      "ipa": "/ˈfæntəmbʌz/",
+      "blend": [
+        "phantom",
+        "buzz"
+      ],
+      "definition": "The phantom vibration you feel from a phone that never actually buzzed.",
+      "example": "I reached for my pocket again but it was just phantombuzz.",
+      "tags": [
+        "brain",
+        "digital"
+      ]
+    },
+    {
+      "id": "battxiety",
+      "word": "Battxiety",
+      "pos": "noun",
+      "ipa": "/bætˈzaɪəti/",
+      "blend": [
+        "battery",
+        "anxiety"
+      ],
+      "definition": "The creeping dread as your phone slips below twenty percent.",
+      "example": "Full-blown battxiety kicked in the second I saw the red icon.",
+      "tags": [
+        "digital",
+        "rage",
+        "brain"
+      ]
+    },
+    {
+      "id": "wifidelity",
+      "word": "Wifidelity",
+      "pos": "noun",
+      "ipa": "/waɪˈfɪdəlɪti/",
+      "blend": [
+        "wifi",
+        "fidelity"
+      ],
+      "definition": "Refusing to move from the one couch spot where the signal is strong.",
+      "example": "Out of pure wifidelity I ate dinner on the stairs.",
+      "tags": [
+        "digital",
+        "laziness",
+        "home"
+      ]
+    },
+    {
+      "id": "doomthumb",
+      "word": "Doomthumb",
+      "pos": "noun",
+      "ipa": "/ˈduːmθʌm/",
+      "blend": [
+        "doom",
+        "thumb"
+      ],
+      "definition": "The aching thumb you earn from hours of endless scrolling.",
+      "example": "My doomthumb was so bad I had to swipe left-handed.",
+      "tags": [
+        "digital",
+        "health",
+        "laziness"
+      ]
+    },
+    {
+      "id": "notifried",
+      "word": "Notifried",
+      "pos": "adjective",
+      "ipa": "/ˌnoʊtɪˈfraɪd/",
+      "blend": [
+        "notification",
+        "fried"
+      ],
+      "definition": "Mentally fried by a nonstop barrage of pings and badges.",
+      "example": "By noon I was completely notifried and couldn't focus.",
+      "tags": [
+        "digital",
+        "brain",
+        "rage"
+      ]
+    },
+    {
+      "id": "ghostread",
+      "word": "Ghostread",
+      "pos": "verb",
+      "ipa": "/ˈɡoʊstrɛd/",
+      "blend": [
+        "ghost",
+        "read"
+      ],
+      "definition": "To open someone's message, read it, and never reply.",
+      "example": "She ghostread my invite and posted a story ten minutes later.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "swipesomnia",
+      "word": "Swipesomnia",
+      "pos": "noun",
+      "ipa": "/swaɪpˈsɒmniə/",
+      "blend": [
+        "swipe",
+        "insomnia"
+      ],
+      "definition": "Staying up past 3am swiping through dating apps.",
+      "example": "Swipesomnia hit hard and I matched with no one worth it.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "chatlanche",
+      "word": "Chatlanche",
+      "pos": "noun",
+      "ipa": "/ˈtʃætlɑːnʃ/",
+      "blend": [
+        "chat",
+        "avalanche"
+      ],
+      "definition": "Waking up to two hundred unread group-chat messages.",
+      "example": "One nap and I woke to a full chatlanche about brunch plans.",
+      "tags": [
+        "digital",
+        "social",
+        "rage"
+      ]
+    },
+    {
+      "id": "emojiguity",
+      "word": "Emojiguity",
+      "pos": "noun",
+      "ipa": "/ɪˌmoʊdʒɪˈɡjuːɪti/",
+      "blend": [
+        "emoji",
+        "ambiguity"
+      ],
+      "definition": "The confusion over what a single ambiguous emoji actually means.",
+      "example": "His skull emoji sent me into total emojiguity.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "autocorrupt",
+      "word": "Autocorrupt",
+      "pos": "verb",
+      "ipa": "/ˌɔːtoʊkəˈrʌpt/",
+      "blend": [
+        "autocorrect",
+        "corrupt"
+      ],
+      "definition": "When autocorrect quietly rewrites your text into nonsense.",
+      "example": "My phone autocorrupted 'meeting' into 'melting' to my boss.",
+      "tags": [
+        "digital",
+        "rage",
+        "absurd"
+      ]
+    },
+    {
+      "id": "bufferage",
+      "word": "Bufferage",
+      "pos": "noun",
+      "ipa": "/ˈbʌfərɪdʒ/",
+      "blend": [
+        "buffer",
+        "rage"
+      ],
+      "definition": "The rising fury at a video's endless spinning loading wheel.",
+      "example": "Peak bufferage hit right at the movie's final twist.",
+      "tags": [
+        "digital",
+        "rage"
+      ]
+    },
+    {
+      "id": "streamsomnia",
+      "word": "Streamsomnia",
+      "pos": "noun",
+      "ipa": "/striːmˈsɒmniə/",
+      "blend": [
+        "stream",
+        "insomnia"
+      ],
+      "definition": "Losing a whole night to just one more autoplaying episode.",
+      "example": "Streamsomnia had me finishing the season at 4am on a work night.",
+      "tags": [
+        "digital",
+        "brain",
+        "laziness"
+      ]
+    },
+    {
+      "id": "passphasia",
+      "word": "Passphasia",
+      "pos": "noun",
+      "ipa": "/pæsˈfeɪʒə/",
+      "blend": [
+        "password",
+        "aphasia"
+      ],
+      "definition": "Forgetting your password the exact moment you need to type it.",
+      "example": "Total passphasia at checkout, so I reset it for the fifth time.",
+      "tags": [
+        "digital",
+        "brain"
+      ]
+    },
+    {
+      "id": "unfollowout",
+      "word": "Unfollowout",
+      "pos": "noun",
+      "ipa": "/ˌʌnˈfɒloʊaʊt/",
+      "blend": [
+        "unfollow",
+        "fallout"
+      ],
+      "definition": "The petty drama that erupts after you unfollow someone.",
+      "example": "The unfollowout from dropping her cousin lasted a week.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "cartpulsive",
+      "word": "Cartpulsive",
+      "pos": "adjective",
+      "ipa": "/kɑːrtˈpʌlsɪv/",
+      "blend": [
+        "cart",
+        "compulsive"
+      ],
+      "definition": "Compulsively filling online carts you have no intention of buying.",
+      "example": "I'm so cartpulsive there's a $400 cart I'll never check out.",
+      "tags": [
+        "digital",
+        "money",
+        "laziness"
+      ]
+    },
+    {
+      "id": "screenshotgun",
+      "word": "Screenshotgun",
+      "pos": "verb",
+      "ipa": "/ˈskriːnʃɒtɡʌn/",
+      "blend": [
+        "screenshot",
+        "shotgun"
+      ],
+      "definition": "To instantly screenshot a chat and blast it to your friends.",
+      "example": "She said what? Screenshotgun it to the group right now.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "unmutastrophe",
+      "word": "Unmutastrophe",
+      "pos": "noun",
+      "ipa": "/ʌnˈmjuːtəstrəfi/",
+      "blend": [
+        "unmute",
+        "catastrophe"
+      ],
+      "definition": "The horror of realizing you were talking the whole time on mute.",
+      "example": "Classic unmutastrophe: I pitched brilliantly to a muted mic.",
+      "tags": [
+        "digital",
+        "workplace",
+        "absurd"
+      ]
+    },
+    {
+      "id": "doomfeed",
+      "word": "Doomfeed",
+      "pos": "noun",
+      "ipa": "/ˈduːmfiːd/",
+      "blend": [
+        "doom",
+        "feed"
+      ],
+      "definition": "A feed that serves you nothing but bad news, forever.",
+      "example": "I opened the app for a laugh and got a pure doomfeed.",
+      "tags": [
+        "digital",
+        "rage",
+        "brain"
+      ]
+    },
+    {
+      "id": "textwrecked",
+      "word": "Textwrecked",
+      "pos": "adjective",
+      "ipa": "/ˈtɛkstrɛkt/",
+      "blend": [
+        "text",
+        "wrecked"
+      ],
+      "definition": "Emotionally devastated by a dry, one-word reply.",
+      "example": "He answered 'k' and I was textwrecked for the afternoon.",
+      "tags": [
+        "digital",
+        "social"
+      ]
+    },
+    {
+      "id": "selfiesteem",
+      "word": "Selfiesteem",
+      "pos": "noun",
+      "ipa": "/ˌsɛlfiˈstiːm/",
+      "blend": [
+        "selfie",
+        "esteem"
+      ],
+      "definition": "A sense of self-worth that rises and falls with selfie likes.",
+      "example": "My selfiesteem tanked when the post flopped by lunch.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "likeprivation",
+      "word": "Likeprivation",
+      "pos": "noun",
+      "ipa": "/ˌlaɪkprɪˈveɪʃən/",
+      "blend": [
+        "like",
+        "deprivation"
+      ],
+      "definition": "The quiet despair when your post gets almost no likes.",
+      "example": "Three likes in an hour sent me into deep likeprivation.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "filterface",
+      "word": "Filterface",
+      "pos": "noun",
+      "ipa": "/ˈfɪltərfeɪs/",
+      "blend": [
+        "filter",
+        "face"
+      ],
+      "definition": "Failing to recognize someone in person without their photo filters.",
+      "example": "My date was total filterface; I walked right past him.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "airpodrift",
+      "word": "Airpodrift",
+      "pos": "noun",
+      "ipa": "/ˈɛərpɒdrɪft/",
+      "blend": [
+        "airpod",
+        "adrift"
+      ],
+      "definition": "The permanent loss of a single earbud into the void.",
+      "example": "Airpodrift struck again; the left one is gone forever.",
+      "tags": [
+        "digital",
+        "absurd",
+        "home"
+      ]
+    },
+    {
+      "id": "captcharade",
+      "word": "Captcharade",
+      "pos": "noun",
+      "ipa": "/kæpˈtʃɑːrɑːd/",
+      "blend": [
+        "captcha",
+        "charade"
+      ],
+      "definition": "The absurd ritual of clicking traffic lights to prove you're human.",
+      "example": "I failed the captcharade twice and started doubting myself.",
+      "tags": [
+        "digital",
+        "absurd",
+        "rage"
+      ]
+    },
+    {
+      "id": "inboxiety",
+      "word": "Inboxiety",
+      "pos": "noun",
+      "ipa": "/ɪnˈbɒksaɪəti/",
+      "blend": [
+        "inbox",
+        "anxiety"
+      ],
+      "definition": "The dread of facing an inbox with four thousand unread emails.",
+      "example": "Monday inboxiety kept me from opening my mail till noon.",
+      "tags": [
+        "digital",
+        "workplace",
+        "rage"
+      ]
+    },
+    {
+      "id": "tabsanity",
+      "word": "Tabsanity",
+      "pos": "noun",
+      "ipa": "/tæbˈsænɪti/",
+      "blend": [
+        "tab",
+        "insanity"
+      ],
+      "definition": "The slow madness of keeping sixty browser tabs open at once.",
+      "example": "My laptop fan screams from pure tabsanity every afternoon.",
+      "tags": [
+        "digital",
+        "brain",
+        "workplace"
+      ]
+    },
+    {
+      "id": "memephoria",
+      "word": "Memephoria",
+      "pos": "noun",
+      "ipa": "/miːmˈfɔːriə/",
+      "blend": [
+        "meme",
+        "euphoria"
+      ],
+      "definition": "The pure joy of sending a perfectly timed meme.",
+      "example": "I felt genuine memephoria when it landed in the group chat.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "draftlimbo",
+      "word": "Draftlimbo",
+      "pos": "noun",
+      "ipa": "/ˈdræftlɪmboʊ/",
+      "blend": [
+        "draft",
+        "limbo"
+      ],
+      "definition": "The graveyard of posts you write but never dare to publish.",
+      "example": "That savage tweet is stuck in draftlimbo where it belongs.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "postgret",
+      "word": "Postgret",
+      "pos": "noun",
+      "ipa": "/poʊstˈɡrɛt/",
+      "blend": [
+        "post",
+        "regret"
+      ],
+      "definition": "The regret that hits seconds after you hit publish.",
+      "example": "Instant postgret; I deleted it before anyone even liked it.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "streamguilt",
+      "word": "Streamguilt",
+      "pos": "noun",
+      "ipa": "/ˈstriːmɡɪlt/",
+      "blend": [
+        "stream",
+        "guilt"
+      ],
+      "definition": "Guilt over the nine streaming subscriptions you never actually watch.",
+      "example": "Streamguilt finally made me cancel three services today.",
+      "tags": [
+        "digital",
+        "money",
+        "laziness"
+      ]
+    },
+    {
+      "id": "subscripocalypse",
+      "word": "Subscripocalypse",
+      "pos": "noun",
+      "ipa": "/səbˌskrɪpˈɒkəlɪps/",
+      "blend": [
+        "subscription",
+        "apocalypse"
+      ],
+      "definition": "The day every free trial you forgot about charges at once.",
+      "example": "My bank statement was a full subscripocalypse this month.",
+      "tags": [
+        "digital",
+        "money",
+        "rage"
+      ]
+    },
+    {
+      "id": "autoplaytrap",
+      "word": "Autoplaytrap",
+      "pos": "noun",
+      "ipa": "/ˈɔːtoʊpleɪtræp/",
+      "blend": [
+        "autoplay",
+        "trap"
+      ],
+      "definition": "Getting helplessly sucked into the next auto-playing video.",
+      "example": "One clip and the autoplaytrap ate my entire lunch break.",
+      "tags": [
+        "digital",
+        "laziness",
+        "brain"
+      ]
+    },
+    {
+      "id": "seenxiety",
+      "word": "Seenxiety",
+      "pos": "noun",
+      "ipa": "/siːnˈzaɪəti/",
+      "blend": [
+        "seen",
+        "anxiety"
+      ],
+      "definition": "The panic when your message says 'seen' but no reply comes.",
+      "example": "An hour of seenxiety later, he finally sent one emoji.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "dotspense",
+      "word": "Dotspense",
+      "pos": "noun",
+      "ipa": "/ˈdɒtspɛns/",
+      "blend": [
+        "dots",
+        "suspense"
+      ],
+      "definition": "The agony of watching typing dots appear, then vanish.",
+      "example": "The dotspense of her typing and stopping was unbearable.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "swipegret",
+      "word": "Swipegret",
+      "pos": "noun",
+      "ipa": "/swaɪpˈɡrɛt/",
+      "blend": [
+        "swipe",
+        "regret"
+      ],
+      "definition": "The regret of left-swiping someone you can never find again.",
+      "example": "Pure swipegret; I'd give anything to un-swipe that one.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "retailgorithm",
+      "word": "Retailgorithm",
+      "pos": "noun",
+      "ipa": "/ˈriːteɪlɡərɪðəm/",
+      "blend": [
+        "retail",
+        "algorithm"
+      ],
+      "definition": "When ads appear for the exact thing you just said out loud.",
+      "example": "I mentioned socks once and the retailgorithm swarmed me.",
+      "tags": [
+        "digital",
+        "money",
+        "absurd"
+      ]
+    },
+    {
+      "id": "botversation",
+      "word": "Botversation",
+      "pos": "noun",
+      "ipa": "/bɒtvərˈseɪʃən/",
+      "blend": [
+        "bot",
+        "conversation"
+      ],
+      "definition": "Realizing halfway through that you've been chatting with an AI.",
+      "example": "Ten minutes into support I clocked it was a botversation.",
+      "tags": [
+        "digital",
+        "absurd",
+        "brain"
+      ]
+    },
+    {
+      "id": "hallucitation",
+      "word": "Hallucitation",
+      "pos": "noun",
+      "ipa": "/həˌluːsɪˈteɪʃən/",
+      "blend": [
+        "hallucinate",
+        "citation"
+      ],
+      "definition": "A confident AI source that sounds real but does not exist.",
+      "example": "The essay cited a hallucitation from a book nobody wrote.",
+      "tags": [
+        "digital",
+        "absurd",
+        "brain"
+      ]
+    },
+    {
+      "id": "lowbattitude",
+      "word": "Lowbattitude",
+      "pos": "noun",
+      "ipa": "/loʊˈbætɪtjuːd/",
+      "blend": [
+        "battery",
+        "attitude"
+      ],
+      "definition": "Getting snappy and irritable as your phone battery drains.",
+      "example": "Ignore me, that was just lowbattitude talking at nine percent.",
+      "tags": [
+        "digital",
+        "rage",
+        "brain"
+      ]
+    },
+    {
+      "id": "deadzoned",
+      "word": "Deadzoned",
+      "pos": "adjective",
+      "ipa": "/ˈdɛdzoʊnd/",
+      "blend": [
+        "deadzone",
+        "zoned"
+      ],
+      "definition": "Stranded somewhere with zero bars and no way to connect.",
+      "example": "I got deadzoned in the elevator right before the big call.",
+      "tags": [
+        "digital",
+        "travel",
+        "rage"
+      ]
+    },
+    {
+      "id": "datapocalypse",
+      "word": "Datapocalypse",
+      "pos": "noun",
+      "ipa": "/ˌdeɪtəˈpɒkəlɪps/",
+      "blend": [
+        "data",
+        "apocalypse"
+      ],
+      "definition": "The despair of hitting your data cap in the middle of a video.",
+      "example": "Datapocalypse struck at the cliffhanger, buffering forever.",
+      "tags": [
+        "digital",
+        "travel",
+        "money"
+      ]
+    },
+    {
+      "id": "feedloop",
+      "word": "Feedloop",
+      "pos": "noun",
+      "ipa": "/ˈfiːdluːp/",
+      "blend": [
+        "feed",
+        "loop"
+      ],
+      "definition": "The trance of refreshing a feed that has nothing new to show.",
+      "example": "I was stuck in a feedloop, pulling to refresh the same posts.",
+      "tags": [
+        "digital",
+        "brain",
+        "laziness"
+      ]
+    },
+    {
+      "id": "ragereply",
+      "word": "Ragereply",
+      "pos": "verb",
+      "ipa": "/ˈreɪdʒrɪplaɪ/",
+      "blend": [
+        "rage",
+        "reply"
+      ],
+      "definition": "To fire off a furious comment you'll almost certainly regret.",
+      "example": "I ragereplied to a stranger's take and lost an hour to it.",
+      "tags": [
+        "digital",
+        "rage",
+        "social"
+      ]
+    },
+    {
+      "id": "chargasm",
+      "word": "Chargasm",
+      "pos": "noun",
+      "ipa": "/ˈtʃɑːrɡæzəm/",
+      "blend": [
+        "charger",
+        "orgasm"
+      ],
+      "definition": "The wave of relief when you find a charger at one percent.",
+      "example": "Pure chargasm when the airport lounge had an open outlet.",
+      "tags": [
+        "digital",
+        "absurd",
+        "travel"
+      ]
+    },
+    {
+      "id": "blueticked",
+      "word": "Blueticked",
+      "pos": "adjective",
+      "ipa": "/ˈbluːtɪkt/",
+      "blend": [
+        "bluetick",
+        "ticked"
+      ],
+      "definition": "Annoyed at being clearly read and then flatly ignored.",
+      "example": "I'm so blueticked; he saw it and posted a meme instead.",
+      "tags": [
+        "digital",
+        "social",
+        "rage"
+      ]
+    },
+    {
+      "id": "scrollstalgia",
+      "word": "Scrollstalgia",
+      "pos": "noun",
+      "ipa": "/skroʊlˈstældʒə/",
+      "blend": [
+        "scroll",
+        "nostalgia"
+      ],
+      "definition": "Scrolling years deep into someone's old photos, lost in the past.",
+      "example": "Scrollstalgia hit and suddenly I liked a 2016 vacation pic.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "disconnectxiety",
+      "word": "Disconnectxiety",
+      "pos": "noun",
+      "ipa": "/ˌdɪskəˈnɛktsaɪəti/",
+      "blend": [
+        "disconnect",
+        "anxiety"
+      ],
+      "definition": "The instant panic the moment your wifi drops out.",
+      "example": "Disconnectxiety set in and I sprinted to reboot the router.",
+      "tags": [
+        "digital",
+        "brain",
+        "home"
+      ]
+    },
+    {
+      "id": "fomofeed",
+      "word": "Fomofeed",
+      "pos": "noun",
+      "ipa": "/ˈfoʊmoʊfiːd/",
+      "blend": [
+        "fomo",
+        "feed"
+      ],
+      "definition": "Scrolling everyone's highlight reels while feeling utterly left out.",
+      "example": "A late-night fomofeed convinced me my whole life is boring.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "ghostmortem",
+      "word": "Ghostmortem",
+      "pos": "noun",
+      "ipa": "/ˈɡoʊstˌmɔːrtəm/",
+      "blend": [
+        "ghost",
+        "postmortem"
+      ],
+      "definition": "Obsessively analyzing why someone stopped texting you back.",
+      "example": "She spent the whole brunch doing a ghostmortem on a guy who replied twice.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "replyxiety",
+      "word": "Replyxiety",
+      "pos": "noun",
+      "ipa": "/rɪˈplaɪzaɪəti/",
+      "blend": [
+        "reply",
+        "anxiety"
+      ],
+      "definition": "The dread of owing someone a text you keep failing to send.",
+      "example": "His replyxiety was so bad he just let the message rot for nine days.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "wedgret",
+      "word": "Wedgret",
+      "pos": "noun",
+      "ipa": "/ˈwɛdɡrɛt/",
+      "blend": [
+        "wedding",
+        "regret"
+      ],
+      "definition": "Saying yes to a wedding months early, then hating past-you on the day.",
+      "example": "Pure wedgret hit me the second I saw it was a three-hour drive.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "inlawkward",
+      "word": "Inlawkward",
+      "pos": "adjective",
+      "ipa": "/ɪnˈlɔːkwərd/",
+      "blend": [
+        "in-law",
+        "awkward"
+      ],
+      "definition": "Describes every slightly stiff interaction with your partner's family.",
+      "example": "Christmas dinner was deeply inlawkward until the wine kicked in.",
+      "tags": [
+        "social",
+        "home"
+      ]
+    },
+    {
+      "id": "smalltalkalypse",
+      "word": "Smalltalkalypse",
+      "pos": "noun",
+      "ipa": "/ˌsmɔːltɔːkəˈlɪps/",
+      "blend": [
+        "small talk",
+        "apocalypse"
+      ],
+      "definition": "The forced chitchat of elevators, waiting rooms, and slow checkouts.",
+      "example": "We got stuck in a full smalltalkalypse about the weather for six floors.",
+      "tags": [
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "frenvy",
+      "word": "Frenvy",
+      "pos": "noun",
+      "ipa": "/ˈfrɛnvi/",
+      "blend": [
+        "friend",
+        "envy"
+      ],
+      "definition": "Jealousy when your friend makes a newer, cooler friend.",
+      "example": "I felt petty frenvy watching them post inside jokes I wasn't part of.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "sociobankrupt",
+      "word": "Sociobankrupt",
+      "pos": "adjective",
+      "ipa": "/ˌsoʊʃioʊˈbæŋkrʌpt/",
+      "blend": [
+        "social",
+        "bankrupt"
+      ],
+      "definition": "So drained you cannot afford a single more human interaction.",
+      "example": "By Sunday I was fully sociobankrupt and cancelled everything.",
+      "tags": [
+        "social",
+        "health"
+      ]
+    },
+    {
+      "id": "textortion",
+      "word": "Textortion",
+      "pos": "noun",
+      "ipa": "/tɛkˈstɔːrʃən/",
+      "blend": [
+        "text",
+        "extortion"
+      ],
+      "definition": "Leaving someone on read on purpose to make them chase you.",
+      "example": "Classic textortion, he waited an hour just to seem less available.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "clingxiety",
+      "word": "Clingxiety",
+      "pos": "noun",
+      "ipa": "/klɪŋˈzaɪəti/",
+      "blend": [
+        "cling",
+        "anxiety"
+      ],
+      "definition": "Post-first-date panic that you came on way too strong.",
+      "example": "Full clingxiety after I double-texted about our future pets.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "blurtimacy",
+      "word": "Blurtimacy",
+      "pos": "noun",
+      "ipa": "/blɜːrˈtɪməsi/",
+      "blend": [
+        "blurt",
+        "intimacy"
+      ],
+      "definition": "Dumping your whole trauma on a near-stranger at a party.",
+      "example": "Three drinks in and it was pure blurtimacy about my childhood.",
+      "tags": [
+        "social",
+        "hangover"
+      ]
+    },
+    {
+      "id": "awkwexit",
+      "word": "Awkwexit",
+      "pos": "noun",
+      "ipa": "/ˈɔːkwɛɡzɪt/",
+      "blend": [
+        "awkward",
+        "exit"
+      ],
+      "definition": "The clumsy, drawn-out attempt to escape a conversation.",
+      "example": "I attempted an awkwexit but somehow ended up hugging him twice.",
+      "tags": [
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "minglephobia",
+      "word": "Minglephobia",
+      "pos": "noun",
+      "ipa": "/ˌmɪŋɡəlˈfoʊbiə/",
+      "blend": [
+        "mingle",
+        "phobia"
+      ],
+      "definition": "Dread of working a room where you know absolutely nobody.",
+      "example": "My minglephobia had me hiding by the snack table all night.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "datedread",
+      "word": "Datedread",
+      "pos": "noun",
+      "ipa": "/ˈdeɪtdrɛd/",
+      "blend": [
+        "date",
+        "dread"
+      ],
+      "definition": "The pre-date urge to cancel everything and stay home.",
+      "example": "Datedread nearly won, but I forced myself into real pants.",
+      "tags": [
+        "social",
+        "laziness"
+      ]
+    },
+    {
+      "id": "situationshipwreck",
+      "word": "Situationshipwreck",
+      "pos": "noun",
+      "ipa": "/ˌsɪtʃueɪʃənˈʃɪprɛk/",
+      "blend": [
+        "situationship",
+        "shipwreck"
+      ],
+      "definition": "The slow collapse of an undefined, never-official not-relationship.",
+      "example": "Six months of a total situationshipwreck and we never used the word dating.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "flirtigue",
+      "word": "Flirtigue",
+      "pos": "noun",
+      "ipa": "/flɜːrˈtiːɡ/",
+      "blend": [
+        "flirt",
+        "fatigue"
+      ],
+      "definition": "Burnout from keeping up the charm across endless dating apps.",
+      "example": "Flirtigue set in so hard my openers became just 'hi.'",
+      "tags": [
+        "digital",
+        "social",
+        "health"
+      ]
+    },
+    {
+      "id": "chatterrupt",
+      "word": "Chatterrupt",
+      "pos": "verb",
+      "ipa": "/ˌtʃætəˈrʌpt/",
+      "blend": [
+        "chatter",
+        "interrupt"
+      ],
+      "definition": "To talk over someone purely from nervous energy.",
+      "example": "I chatterrupted her three times because silence terrifies me.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "plusnone",
+      "word": "Plusnone",
+      "pos": "noun",
+      "ipa": "/ˈplʌsnʌn/",
+      "blend": [
+        "plus one",
+        "none"
+      ],
+      "definition": "Showing up to a couples' event conspicuously, painfully alone.",
+      "example": "I RSVP'd plusnone and got seated at the kids' table.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "reunionxiety",
+      "word": "Reunionxiety",
+      "pos": "noun",
+      "ipa": "/ˌriːjuːnˈjɒnzaɪəti/",
+      "blend": [
+        "reunion",
+        "anxiety"
+      ],
+      "definition": "Dread before seeing people who peaked in high school.",
+      "example": "Reunionxiety made me consider inventing a fake exciting career.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "frenemyhem",
+      "word": "Frenemyhem",
+      "pos": "noun",
+      "ipa": "/ˈfrɛnəmiˌhɛm/",
+      "blend": [
+        "frenemy",
+        "mayhem"
+      ],
+      "definition": "The chaos of a friendship that's really half competition.",
+      "example": "Our whole trip was frenemyhem over who had the better tan.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "namnesia",
+      "word": "Namnesia",
+      "pos": "noun",
+      "ipa": "/næmˈniːʒə/",
+      "blend": [
+        "name",
+        "amnesia"
+      ],
+      "definition": "Forgetting someone's name the very instant they say it.",
+      "example": "Instant namnesia, we shook hands and it was already gone.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "compliflirt",
+      "word": "Compliflirt",
+      "pos": "verb",
+      "ipa": "/ˈkɒmplɪflɜːrt/",
+      "blend": [
+        "compliment",
+        "flirt"
+      ],
+      "definition": "Complimenting someone so hard it's basically flirting.",
+      "example": "I definitely compliflirted with the barista and now it's weird.",
+      "tags": [
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "introverwhelm",
+      "word": "Introverwhelm",
+      "pos": "noun",
+      "ipa": "/ˌɪntrəˈwɛlm/",
+      "blend": [
+        "introvert",
+        "overwhelm"
+      ],
+      "definition": "The heavy crash that hits after too much socializing.",
+      "example": "Post-wedding introverwhelm had me silent for a full day.",
+      "tags": [
+        "social",
+        "health"
+      ]
+    },
+    {
+      "id": "toastastrophe",
+      "word": "Toastastrophe",
+      "pos": "noun",
+      "ipa": "/ˌtoʊstəˈstrɒfi/",
+      "blend": [
+        "toast",
+        "catastrophe"
+      ],
+      "definition": "A wedding speech that veers horribly, publicly off the rails.",
+      "example": "The best man's toastastrophe brought up the groom's ex twice.",
+      "tags": [
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "exquaintance",
+      "word": "Exquaintance",
+      "pos": "noun",
+      "ipa": "/ɛkˈskweɪntəns/",
+      "blend": [
+        "ex",
+        "acquaintance"
+      ],
+      "definition": "The person you dated once and now just nod at forever.",
+      "example": "We're exquaintances now, two dates then a decade of polite nods.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "swipexhaustion",
+      "word": "Swipexhaustion",
+      "pos": "noun",
+      "ipa": "/swaɪpɪɡˈzɔːstʃən/",
+      "blend": [
+        "swipe",
+        "exhaustion"
+      ],
+      "definition": "Dating-app burnout from endless, joyless thumb-scrolling.",
+      "example": "Swipexhaustion hit and I started swiping left on absolutely everyone.",
+      "tags": [
+        "digital",
+        "social",
+        "laziness"
+      ]
+    },
+    {
+      "id": "matchagony",
+      "word": "Matchagony",
+      "pos": "noun",
+      "ipa": "/mætʃˈæɡəni/",
+      "blend": [
+        "match",
+        "agony"
+      ],
+      "definition": "Matching with someone perfect, then having nothing to say.",
+      "example": "Peak matchagony: dream girl matched and my brain typed 'hey :)'.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "waveward",
+      "word": "Waveward",
+      "pos": "adjective",
+      "ipa": "/ˈweɪvwərd/",
+      "blend": [
+        "wave",
+        "awkward"
+      ],
+      "definition": "Describes a confident wave at someone not waving at you.",
+      "example": "I gave a big waveward hello to a stranger and pretended to fix my hair.",
+      "tags": [
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "partyphoon",
+      "word": "Partyphoon",
+      "pos": "noun",
+      "ipa": "/pɑːrˈtaɪfuːn/",
+      "blend": [
+        "party",
+        "typhoon"
+      ],
+      "definition": "The friend who arrives and instantly derails the whole vibe.",
+      "example": "Dave rolled in like a partyphoon and suddenly we're doing shots.",
+      "tags": [
+        "social",
+        "hangover"
+      ]
+    },
+    {
+      "id": "groupchatatonic",
+      "word": "Groupchatatonic",
+      "pos": "adjective",
+      "ipa": "/ˌɡruːptʃætəˈtɒnɪk/",
+      "blend": [
+        "group chat",
+        "catatonic"
+      ],
+      "definition": "Unable to answer a group chat with 200 unread messages.",
+      "example": "I went fully groupchatatonic and just reacted to one meme.",
+      "tags": [
+        "digital",
+        "social",
+        "laziness"
+      ]
+    },
+    {
+      "id": "cuddlefish",
+      "word": "Cuddlefish",
+      "pos": "noun",
+      "ipa": "/ˈkʌdəlfɪʃ/",
+      "blend": [
+        "cuddle",
+        "selfish"
+      ],
+      "definition": "Someone who wants affection strictly on their own terms.",
+      "example": "He's a total cuddlefish, clingy at midnight, ghost by breakfast.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "boozefriending",
+      "word": "Boozefriending",
+      "pos": "noun",
+      "ipa": "/ˈbuːzˌfrɛndɪŋ/",
+      "blend": [
+        "booze",
+        "befriending"
+      ],
+      "definition": "Swearing lifelong loyalty to a total stranger at 1am.",
+      "example": "That's just boozefriending, we hugged in the bathroom and never spoke again.",
+      "tags": [
+        "social",
+        "hangover"
+      ]
+    },
+    {
+      "id": "hugsitation",
+      "word": "Hugsitation",
+      "pos": "noun",
+      "ipa": "/hʌɡzɪˈteɪʃən/",
+      "blend": [
+        "hug",
+        "hesitation"
+      ],
+      "definition": "The split-second panic of hug vs handshake vs wave.",
+      "example": "Our hugsitation ended in a horrible one-armed shoulder pat.",
+      "tags": [
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "ghosterity",
+      "word": "Ghosterity",
+      "pos": "noun",
+      "ipa": "/ɡoʊˈstɛrɪti/",
+      "blend": [
+        "ghost",
+        "posterity"
+      ],
+      "definition": "The long trail of people you've silently disappeared on.",
+      "example": "My ghosterity includes a dentist, a book club, and two decent dates.",
+      "tags": [
+        "digital",
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "textovert",
+      "word": "Textovert",
+      "pos": "noun",
+      "ipa": "/ˈtɛkstoʊvɜːrt/",
+      "blend": [
+        "text",
+        "extrovert"
+      ],
+      "definition": "Bold and hilarious over text, completely mute in person.",
+      "example": "He's a textovert, paragraphs at night, one-word answers at dinner.",
+      "tags": [
+        "digital",
+        "social"
+      ]
+    },
+    {
+      "id": "rebounderdog",
+      "word": "Rebounderdog",
+      "pos": "noun",
+      "ipa": "/rɪˈbaʊndərdɒɡ/",
+      "blend": [
+        "rebound",
+        "underdog"
+      ],
+      "definition": "The sweet person you date only to get over someone else.",
+      "example": "He was the rebounderdog and honestly deserved so much better.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "unfriendzone",
+      "word": "Unfriendzone",
+      "pos": "verb",
+      "ipa": "/ʌnˈfrɛndzoʊn/",
+      "blend": [
+        "unfriend",
+        "friend zone"
+      ],
+      "definition": "To quietly demote someone out of your life for good.",
+      "example": "After the third cancelled plan I just unfriendzoned him entirely.",
+      "tags": [
+        "social",
+        "digital",
+        "judgment"
+      ]
+    },
+    {
+      "id": "cliquebait",
+      "word": "Cliquebait",
+      "pos": "noun",
+      "ipa": "/ˈkliːkbeɪt/",
+      "blend": [
+        "clique",
+        "clickbait"
+      ],
+      "definition": "An invite that really just exists to fill out a group photo.",
+      "example": "That birthday invite was cliquebait, I knew nobody and left early.",
+      "tags": [
+        "social",
+        "judgment"
+      ]
+    },
+    {
+      "id": "overrsvp",
+      "word": "Overrsvp",
+      "pos": "verb",
+      "ipa": "/ˌoʊvərɑːrɛsviːˈpiː/",
+      "blend": [
+        "over",
+        "rsvp"
+      ],
+      "definition": "Eagerly committing to plans you will absolutely dread later.",
+      "example": "I overRSVP'd to four things this weekend and now I want to move.",
+      "tags": [
+        "social",
+        "laziness"
+      ]
+    },
+    {
+      "id": "aislexiety",
+      "word": "Aislexiety",
+      "pos": "noun",
+      "ipa": "/aɪˈlɛksaɪəti/",
+      "blend": [
+        "aisle",
+        "anxiety"
+      ],
+      "definition": "Nerves over which side to sit on at someone's wedding.",
+      "example": "Aislexiety got me, I hovered until an usher physically steered me.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "breakupancy",
+      "word": "Breakupancy",
+      "pos": "noun",
+      "ipa": "/ˌbreɪkˈʌpənsi/",
+      "blend": [
+        "breakup",
+        "occupancy"
+      ],
+      "definition": "Still living with your ex purely because rent is expensive.",
+      "example": "We've been in breakupancy for two months, splitting the sad groceries.",
+      "tags": [
+        "home",
+        "money",
+        "social"
+      ]
+    },
+    {
+      "id": "chatfixiation",
+      "word": "Chatfixiation",
+      "pos": "noun",
+      "ipa": "/ˌtʃætfɪkˈseɪʃən/",
+      "blend": [
+        "chat",
+        "asphyxiation"
+      ],
+      "definition": "Being cornered by a talker with no possible escape route.",
+      "example": "I suffered forty minutes of chatfixiation about his fantasy football team.",
+      "tags": [
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "familler",
+      "word": "Familler",
+      "pos": "noun",
+      "ipa": "/ˈfæmɪlər/",
+      "blend": [
+        "family",
+        "filler"
+      ],
+      "definition": "The hollow questions relatives ask just to avoid silence.",
+      "example": "Grandma hit me with pure familler: 'So, any boyfriend yet?'",
+      "tags": [
+        "social",
+        "home"
+      ]
+    },
+    {
+      "id": "snubconscious",
+      "word": "Snubconscious",
+      "pos": "adjective",
+      "ipa": "/snʌbˈkɒnʃəs/",
+      "blend": [
+        "snub",
+        "subconscious"
+      ],
+      "definition": "Accidentally snubbing someone you genuinely didn't see.",
+      "example": "I walked right past her, fully snubconscious, and she's furious now.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "textpurgatory",
+      "word": "Textpurgatory",
+      "pos": "noun",
+      "ipa": "/ˈtɛkstˌpɜːrɡətɔːri/",
+      "blend": [
+        "text",
+        "purgatory"
+      ],
+      "definition": "The limbo after 'hey' when no follow-up ever arrives.",
+      "example": "We've been in textpurgatory since Tuesday, just one 'hey' and silence.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "sociover",
+      "word": "Sociover",
+      "pos": "exclamation",
+      "ipa": "/ˈsoʊʃoʊvər/",
+      "blend": [
+        "social",
+        "over"
+      ],
+      "definition": "The internal alarm blaring that your social battery is dead.",
+      "example": "Sociover! I've smiled at strangers for three hours and I'm done.",
+      "tags": [
+        "social",
+        "health"
+      ]
+    },
+    {
+      "id": "doorstepdance",
+      "word": "Doorstepdance",
+      "pos": "noun",
+      "ipa": "/ˈdɔːrstɛpdæns/",
+      "blend": [
+        "doorstep",
+        "dance"
+      ],
+      "definition": "The will-we-won't-we kiss fumble at the end of a date.",
+      "example": "We did the full doorstepdance and ended on an accidental forehead bonk.",
+      "tags": [
+        "social",
+        "absurd"
+      ]
+    },
+    {
+      "id": "apologuilt",
+      "word": "Apologuilt",
+      "pos": "noun",
+      "ipa": "/əˈpɒləˌɡɪlt/",
+      "blend": [
+        "apology",
+        "guilt"
+      ],
+      "definition": "Over-apologizing so much you somehow feel even worse.",
+      "example": "I spiraled into apologuilt and said sorry for saying sorry.",
+      "tags": [
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "homeurgent",
+      "word": "Homeurgent",
+      "pos": "exclamation",
+      "ipa": "/ˈhoʊmɜːrdʒənt/",
+      "blend": [
+        "home",
+        "urgent"
+      ],
+      "definition": "The sudden, desperate need to leave and get home right now.",
+      "example": "It's 9pm and homeurgent just hit, I'm calling a cab immediately.",
+      "tags": [
+        "home",
+        "social",
+        "laziness"
+      ]
+    },
+    {
+      "id": "slidexiety",
+      "word": "Slidexiety",
+      "pos": "noun",
+      "ipa": "/slaɪdˈzaɪəti/",
+      "blend": [
+        "slide",
+        "anxiety"
+      ],
+      "definition": "The jittery fear after sliding into someone's DMs.",
+      "example": "Slidexiety kept me refreshing the app every four minutes for a reply.",
+      "tags": [
+        "digital",
+        "social",
+        "brain"
+      ]
+    },
+    {
+      "id": "partyparole",
+      "word": "Partyparole",
+      "pos": "noun",
+      "ipa": "/ˈpɑːrtipəˌroʊl/",
+      "blend": [
+        "party",
+        "parole"
+      ],
+      "definition": "The guilt-free permission to bail on an event early.",
+      "example": "The host granted partyparole at ten and I sprinted for my coat.",
+      "tags": [
+        "social",
+        "laziness"
+      ]
+    },
+    {
+      "id": "budgeticide",
+      "word": "Budgeticide",
+      "pos": "noun",
+      "ipa": "/ˈbʌdʒɪsaɪd/",
+      "blend": [
+        "budget",
+        "suicide"
+      ],
+      "definition": "The act of destroying your careful spreadsheet with one impulsive checkout click.",
+      "example": "I committed full budgeticide the second that gadget hit sale price.",
+      "tags": [
+        "money",
+        "absurd"
+      ]
+    },
+    {
+      "id": "laundrophobia",
+      "word": "Laundrophobia",
+      "pos": "noun",
+      "ipa": "/ˌlɔːndrəˈfoʊbiə/",
+      "blend": [
+        "laundry",
+        "phobia"
+      ],
+      "definition": "The dread that grows every day the clean clothes stay unfolded in the basket.",
+      "example": "My laundrophobia peaked when I started dressing straight from the dryer.",
+      "tags": [
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "chorevada",
+      "word": "Chorevada",
+      "pos": "noun",
+      "ipa": "/tʃɔːrˈveɪdə/",
+      "blend": [
+        "chore",
+        "evade"
+      ],
+      "definition": "The graceful art of leaving a room the moment a chore gets assigned.",
+      "example": "He pulled a smooth chorevada right as the dishes were mentioned.",
+      "tags": [
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "rentrage",
+      "word": "Rentrage",
+      "pos": "noun",
+      "ipa": "/ˈrɛntreɪdʒ/",
+      "blend": [
+        "rent",
+        "rage"
+      ],
+      "definition": "The monthly fury of paying a fortune to live somewhere you don't own.",
+      "example": "First of the month hits and the rentrage takes over my whole soul.",
+      "tags": [
+        "money",
+        "rage"
+      ]
+    },
+    {
+      "id": "subscriptrap",
+      "word": "Subscriptrap",
+      "pos": "noun",
+      "ipa": "/səbˈskrɪptræp/",
+      "blend": [
+        "subscription",
+        "trap"
+      ],
+      "definition": "A recurring charge you forgot existed for a service you never use.",
+      "example": "Found a subscriptrap draining me for a meditation app since 2021.",
+      "tags": [
+        "money",
+        "digital"
+      ]
+    },
+    {
+      "id": "impulsceral",
+      "word": "Impulsceral",
+      "pos": "adjective",
+      "ipa": "/ɪmˈpʌlsərəl/",
+      "blend": [
+        "impulse",
+        "visceral"
+      ],
+      "definition": "Describing a purchase your gut demanded before your brain could object.",
+      "example": "That impulsceral cart of neon socks made zero rational sense.",
+      "tags": [
+        "money",
+        "brain"
+      ]
+    },
+    {
+      "id": "taxhaustion",
+      "word": "Taxhaustion",
+      "pos": "noun",
+      "ipa": "/tæksˈɔːstʃən/",
+      "blend": [
+        "tax",
+        "exhaustion"
+      ],
+      "definition": "The soul-deep fatigue of gathering receipts you swore you'd organize in January.",
+      "example": "April taxhaustion hit and I just guessed at half the numbers.",
+      "tags": [
+        "money",
+        "health"
+      ]
+    },
+    {
+      "id": "billmnesia",
+      "word": "Billmnesia",
+      "pos": "noun",
+      "ipa": "/bɪlˈniːziə/",
+      "blend": [
+        "bill",
+        "amnesia"
+      ],
+      "definition": "The convenient forgetting of a due date until the late fee arrives.",
+      "example": "Classic billmnesia, the electric bill vanished from my brain entirely.",
+      "tags": [
+        "money",
+        "brain"
+      ]
+    },
+    {
+      "id": "errandthrax",
+      "word": "Errandthrax",
+      "pos": "noun",
+      "ipa": "/ˈɛrəndθræks/",
+      "blend": [
+        "errand",
+        "anthrax"
+      ],
+      "definition": "The dread of a Saturday list so long it feels like a diagnosable illness.",
+      "example": "Woke up with full errandthrax: bank, post office, hardware store, pharmacy.",
+      "tags": [
+        "home",
+        "rage"
+      ]
+    },
+    {
+      "id": "cartbandon",
+      "word": "Cartbandon",
+      "pos": "verb",
+      "ipa": "/kɑːrtˈbændən/",
+      "blend": [
+        "cart",
+        "abandon"
+      ],
+      "definition": "To fill an online cart for therapy, then flee before paying a cent.",
+      "example": "I cartbandoned four hundred dollars of furniture at 2am and felt cured.",
+      "tags": [
+        "money",
+        "digital"
+      ]
+    },
+    {
+      "id": "receiptastrophe",
+      "word": "Receiptastrophe",
+      "pos": "noun",
+      "ipa": "/rɪˌsiːpˈtæstrəfi/",
+      "blend": [
+        "receipt",
+        "catastrophe"
+      ],
+      "definition": "The glovebox avalanche of crumpled receipts you'll never once need.",
+      "example": "Opened the drawer and a full receiptastrophe buried my hand.",
+      "tags": [
+        "home",
+        "absurd"
+      ]
+    },
+    {
+      "id": "diysaster",
+      "word": "Diysaster",
+      "pos": "noun",
+      "ipa": "/ˌdiːaɪˈzæstər/",
+      "blend": [
+        "diy",
+        "disaster"
+      ],
+      "definition": "A weekend home project that ends worse than the problem it started with.",
+      "example": "My shelf-hanging diysaster left three holes and one crooked board.",
+      "tags": [
+        "home",
+        "absurd"
+      ]
+    },
+    {
+      "id": "warranteed",
+      "word": "Warranteed",
+      "pos": "adjective",
+      "ipa": "/ˈwɒrəntiːd/",
+      "blend": [
+        "warranty",
+        "guaranteed"
+      ],
+      "definition": "Certain to break the exact day after the coverage expires.",
+      "example": "The blender was warranteed to die, thirteen months, right on schedule.",
+      "tags": [
+        "money",
+        "absurd"
+      ]
+    },
+    {
+      "id": "holdusion",
+      "word": "Holdusion",
+      "pos": "noun",
+      "ipa": "/hoʊldˈuːʒən/",
+      "blend": [
+        "hold",
+        "illusion"
+      ],
+      "definition": "The false belief that this customer service call will end within an hour.",
+      "example": "I fell for the holdusion again, ninety minutes of soft jazz later.",
+      "tags": [
+        "rage",
+        "absurd"
+      ]
+    },
+    {
+      "id": "paperworkout",
+      "word": "Paperworkout",
+      "pos": "noun",
+      "ipa": "/ˈpeɪpərwɜːkaʊt/",
+      "blend": [
+        "paperwork",
+        "workout"
+      ],
+      "definition": "The exhausting mental labor of forms that somehow require three other forms.",
+      "example": "The DMV paperworkout drained me more than an actual gym session.",
+      "tags": [
+        "home",
+        "health"
+      ]
+    },
+    {
+      "id": "fridgeduction",
+      "word": "Fridgeduction",
+      "pos": "noun",
+      "ipa": "/frɪdʒˈdʌkʃən/",
+      "blend": [
+        "fridge",
+        "deduction"
+      ],
+      "definition": "Concluding there's nothing to eat despite a fully stocked refrigerator.",
+      "example": "Made a solid fridgeduction and ordered takeout past a full shelf.",
+      "tags": [
+        "food",
+        "laziness"
+      ]
+    },
+    {
+      "id": "waitroominate",
+      "word": "Waitroominate",
+      "pos": "verb",
+      "ipa": "/ˈweɪtruːmɪneɪt/",
+      "blend": [
+        "waiting room",
+        "ruminate"
+      ],
+      "definition": "To spiral through every life choice while the receptionist ignores you.",
+      "example": "I waitroominated so hard I questioned my whole career by appointment time.",
+      "tags": [
+        "health",
+        "brain"
+      ]
+    },
+    {
+      "id": "groceryamble",
+      "word": "Groceryamble",
+      "pos": "verb",
+      "ipa": "/ˈɡroʊsəriæmbəl/",
+      "blend": [
+        "grocery",
+        "gamble"
+      ],
+      "definition": "To shop hungry and wager the whole budget on snacks you don't need.",
+      "example": "Never groceryamble on an empty stomach, I bought six kinds of chips.",
+      "tags": [
+        "food",
+        "money"
+      ]
+    },
+    {
+      "id": "autopanic",
+      "word": "Autopanic",
+      "pos": "noun",
+      "ipa": "/ˈɔːtoʊpænɪk/",
+      "blend": [
+        "auto",
+        "panic"
+      ],
+      "definition": "The stomach drop when a new noise starts coming from your car engine.",
+      "example": "Full autopanic on the freeway when the dashboard lit up orange.",
+      "tags": [
+        "money",
+        "travel"
+      ]
+    },
+    {
+      "id": "clutterloaf",
+      "word": "Clutterloaf",
+      "pos": "verb",
+      "ipa": "/ˈklʌtərloʊf/",
+      "blend": [
+        "clutter",
+        "loaf"
+      ],
+      "definition": "To relocate a mess to another room instead of actually cleaning it.",
+      "example": "I clutterloafed the whole living room pile straight onto the bed.",
+      "tags": [
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "discountoxicated",
+      "word": "Discountoxicated",
+      "pos": "adjective",
+      "ipa": "/dɪsˌkaʊnˈtɒksɪkeɪtɪd/",
+      "blend": [
+        "discount",
+        "intoxicated"
+      ],
+      "definition": "High on a sale sign, buying things purely because they're marked down.",
+      "example": "Fully discountoxicated, I bought a canoe I have nowhere to store.",
+      "tags": [
+        "money",
+        "brain"
+      ]
+    },
+    {
+      "id": "maintenagony",
+      "word": "Maintenagony",
+      "pos": "noun",
+      "ipa": "/ˌmeɪntəˈnæɡəni/",
+      "blend": [
+        "maintenance",
+        "agony"
+      ],
+      "definition": "The endless drip of small home repairs that never once fully stops.",
+      "example": "Fixed the faucet, then the door, then the vent, pure maintenagony.",
+      "tags": [
+        "home",
+        "rage"
+      ]
+    },
+    {
+      "id": "overdraftermath",
+      "word": "Overdraftermath",
+      "pos": "noun",
+      "ipa": "/ˌoʊvərˈdræftərmæθ/",
+      "blend": [
+        "overdraft",
+        "aftermath"
+      ],
+      "definition": "The cascade of fees triggered by one coffee bought a day too early.",
+      "example": "A four-dollar latte spiraled into a thirty-dollar overdraftermath.",
+      "tags": [
+        "money",
+        "rage"
+      ]
+    },
+    {
+      "id": "assemblrage",
+      "word": "Assemblrage",
+      "pos": "noun",
+      "ipa": "/əˈsɛmblrɑːʒ/",
+      "blend": [
+        "assembly",
+        "rage"
+      ],
+      "definition": "The fury of flat-pack furniture with one leftover screw and no diagram.",
+      "example": "The bookcase assemblrage had me hurling an Allen key across the room.",
+      "tags": [
+        "home",
+        "rage"
+      ]
+    },
+    {
+      "id": "grimebligation",
+      "word": "Grimebligation",
+      "pos": "noun",
+      "ipa": "/ˌɡraɪmblɪˈɡeɪʃən/",
+      "blend": [
+        "grime",
+        "obligation"
+      ],
+      "definition": "The guilt-driven duty to scrub something before guests can possibly see it.",
+      "example": "Pure grimebligation had me bleaching grout twenty minutes before company.",
+      "tags": [
+        "home",
+        "social"
+      ]
+    },
+    {
+      "id": "cashphyxiate",
+      "word": "Cashphyxiate",
+      "pos": "verb",
+      "ipa": "/ˈkæʃfɪkseɪt/",
+      "blend": [
+        "cash",
+        "asphyxiate"
+      ],
+      "definition": "To feel financially strangled in the last stretch before payday.",
+      "example": "I cashphyxiate every month around the 27th, breathing on fumes.",
+      "tags": [
+        "money",
+        "health"
+      ]
+    },
+    {
+      "id": "spamvelope",
+      "word": "Spamvelope",
+      "pos": "noun",
+      "ipa": "/ˈspæmvəloʊp/",
+      "blend": [
+        "spam",
+        "envelope"
+      ],
+      "definition": "A piece of physical junk mail dressed up to look genuinely urgent.",
+      "example": "Tore open a spamvelope marked FINAL NOTICE, it was gutter cleaning.",
+      "tags": [
+        "home",
+        "absurd"
+      ]
+    },
+    {
+      "id": "invoiceless",
+      "word": "Invoiceless",
+      "pos": "adjective",
+      "ipa": "/ɪnˈvɔɪsləs/",
+      "blend": [
+        "invoice",
+        "voiceless"
+      ],
+      "definition": "Rendered speechless by a bill charging you for things you never got.",
+      "example": "The hospital statement left me invoiceless, forty dollars for one aspirin.",
+      "tags": [
+        "money",
+        "health"
+      ]
+    },
+    {
+      "id": "thermostandoff",
+      "word": "Thermostandoff",
+      "pos": "noun",
+      "ipa": "/ˈθɜːrmoʊstændɒf/",
+      "blend": [
+        "thermostat",
+        "standoff"
+      ],
+      "definition": "The silent household war fought degree by degree over the heating dial.",
+      "example": "We're in day three of a thermostandoff and I refuse to blink first.",
+      "tags": [
+        "home",
+        "rage"
+      ]
+    },
+    {
+      "id": "scrubbatical",
+      "word": "Scrubbatical",
+      "pos": "noun",
+      "ipa": "/skrʌˈbætɪkəl/",
+      "blend": [
+        "scrub",
+        "sabbatical"
+      ],
+      "definition": "The long stretch you take off from cleaning until it becomes archaeology.",
+      "example": "After a two-week scrubbatical the bathroom needed a hazmat team.",
+      "tags": [
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "pricepitation",
+      "word": "Pricepitation",
+      "pos": "noun",
+      "ipa": "/ˌpraɪsɪˈpeɪʃən/",
+      "blend": [
+        "price",
+        "precipitation"
+      ],
+      "definition": "The cold sweat that breaks out the moment the total appears at checkout.",
+      "example": "Full pricepitation hit when the plumber quietly slid over the invoice.",
+      "tags": [
+        "money",
+        "health"
+      ]
+    },
+    {
+      "id": "returnertia",
+      "word": "Returnertia",
+      "pos": "noun",
+      "ipa": "/rɪˈtɜːrnɜːrʃə/",
+      "blend": [
+        "return",
+        "inertia"
+      ],
+      "definition": "The inability to send back a bad purchase before the window slams shut.",
+      "example": "Returnertia struck again, the shoes lived by the door for six months.",
+      "tags": [
+        "laziness",
+        "money"
+      ]
+    },
+    {
+      "id": "bureaucrawl",
+      "word": "Bureaucrawl",
+      "pos": "noun",
+      "ipa": "/ˈbjʊəroʊkrɔːl/",
+      "blend": [
+        "bureaucracy",
+        "crawl"
+      ],
+      "definition": "The glacial pace of any government line that moves one person per hour.",
+      "example": "The passport office bureaucrawl ate my entire morning and my will.",
+      "tags": [
+        "rage",
+        "absurd"
+      ]
+    },
+    {
+      "id": "dishcrastinate",
+      "word": "Dishcrastinate",
+      "pos": "verb",
+      "ipa": "/dɪʃˈkræstɪneɪt/",
+      "blend": [
+        "dish",
+        "procrastinate"
+      ],
+      "definition": "To let the sink pile grow until you're washing a fork just to use it.",
+      "example": "I dishcrastinated so long I ran out of clean plates entirely.",
+      "tags": [
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "funployment",
+      "word": "Funployment",
+      "pos": "noun",
+      "ipa": "/fʌnˈplɔɪmənt/",
+      "blend": [
+        "fun",
+        "unemployment"
+      ],
+      "definition": "The brief joy of a free day before the bills remember your address.",
+      "example": "My funployment lasted until the rent notice appeared under the door.",
+      "tags": [
+        "money",
+        "laziness"
+      ]
+    },
+    {
+      "id": "vacuumbrage",
+      "word": "Vacuumbrage",
+      "pos": "noun",
+      "ipa": "/vækˈjuːmbrɪdʒ/",
+      "blend": [
+        "vacuum",
+        "umbrage"
+      ],
+      "definition": "The quiet resentment of being the only one who ever runs the vacuum.",
+      "example": "I took deep vacuumbrage nobody noticed the carpet lines but me.",
+      "tags": [
+        "home",
+        "rage"
+      ]
+    },
+    {
+      "id": "depositimism",
+      "word": "Depositimism",
+      "pos": "noun",
+      "ipa": "/dɪˈpɒzɪtɪzəm/",
+      "blend": [
+        "deposit",
+        "optimism"
+      ],
+      "definition": "The naive faith your landlord will ever return your security deposit.",
+      "example": "My depositimism died when he charged me for 'normal wall breathing.'",
+      "tags": [
+        "money",
+        "home"
+      ]
+    },
+    {
+      "id": "shopportunist",
+      "word": "Shopportunist",
+      "pos": "noun",
+      "ipa": "/ʃɒpˈɔːrtjunɪst/",
+      "blend": [
+        "shop",
+        "opportunist"
+      ],
+      "definition": "One who adds 'a few things' to a single-item run every single time.",
+      "example": "I went in for milk and left a full shopportunist with ninety dollars gone.",
+      "tags": [
+        "money",
+        "food"
+      ]
+    },
+    {
+      "id": "gutterlude",
+      "word": "Gutterlude",
+      "pos": "noun",
+      "ipa": "/ˈɡʌtərluːd/",
+      "blend": [
+        "gutter",
+        "interlude"
+      ],
+      "definition": "The suspicious calm before a home chore you keep swearing you'll do.",
+      "example": "We're in a long gutterlude, the leaves have been up there since fall.",
+      "tags": [
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "minimumble",
+      "word": "Minimumble",
+      "pos": "verb",
+      "ipa": "/ˈmɪnɪmʌmbəl/",
+      "blend": [
+        "minimum",
+        "mumble"
+      ],
+      "definition": "To quietly justify paying only the smallest amount on a growing card.",
+      "example": "I minimumbled about interest rates and paid the tiny number again.",
+      "tags": [
+        "money",
+        "brain"
+      ]
+    },
+    {
+      "id": "moldenfreude",
+      "word": "Moldenfreude",
+      "pos": "noun",
+      "ipa": "/ˈmoʊldənfrɔɪdə/",
+      "blend": [
+        "mold",
+        "schadenfreude"
+      ],
+      "definition": "The dark thrill of discovering the science experiment in the back fridge.",
+      "example": "Peak moldenfreude finding a container that had evolved fur and opinions.",
+      "tags": [
+        "food",
+        "absurd"
+      ]
+    },
+    {
+      "id": "quotenza",
+      "word": "Quotenza",
+      "pos": "noun",
+      "ipa": "/kwoʊˈtɛnzə/",
+      "blend": [
+        "quote",
+        "influenza"
+      ],
+      "definition": "The feverish shock of a repair estimate three times what you expected.",
+      "example": "The mechanic's quotenza left me sweating in the waiting room chair.",
+      "tags": [
+        "money",
+        "travel"
+      ]
+    },
+    {
+      "id": "foldgotten",
+      "word": "Foldgotten",
+      "pos": "adjective",
+      "ipa": "/foʊldˈɡɒtən/",
+      "blend": [
+        "fold",
+        "forgotten"
+      ],
+      "definition": "Describing clean laundry that lived in the basket so long it re-wrinkled.",
+      "example": "Every shirt I own is foldgotten and needs ironing before I dare wear it.",
+      "tags": [
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "autopayralysis",
+      "word": "Autopayralysis",
+      "pos": "noun",
+      "ipa": "/ˌɔːtoʊpeɪˈrælɪsɪs/",
+      "blend": [
+        "autopay",
+        "paralysis"
+      ],
+      "definition": "The frozen dread of not knowing what's silently draining your account.",
+      "example": "Autopayralysis kept me from checking my statement for three whole weeks.",
+      "tags": [
+        "money",
+        "digital"
+      ]
+    },
+    {
+      "id": "declutterlusional",
+      "word": "Declutterlusional",
+      "pos": "adjective",
+      "ipa": "/diːˌklʌtərˈluːʒənəl/",
+      "blend": [
+        "declutter",
+        "delusional"
+      ],
+      "definition": "Convinced you'll finally organize the whole garage this one weekend.",
+      "example": "I got declutterlusional again, bought bins, and used exactly none of them.",
+      "tags": [
+        "home",
+        "brain"
+      ]
+    },
+    {
+      "id": "couponomics",
+      "word": "Couponomics",
+      "pos": "noun",
+      "ipa": "/ˌkuːpəˈnɒmɪks/",
+      "blend": [
+        "coupon",
+        "economics"
+      ],
+      "definition": "The fake math of spending forty dollars to save four with a code.",
+      "example": "My couponomics said free shipping was worth twenty extra dollars. It wasn't.",
+      "tags": [
+        "money",
+        "brain"
+      ]
+    },
+    {
+      "id": "drainxiety",
+      "word": "Drainxiety",
+      "pos": "noun",
+      "ipa": "/dreɪnˈzaɪəti/",
+      "blend": [
+        "drain",
+        "anxiety"
+      ],
+      "definition": "The slow horror of watching the shower water rise around your ankles.",
+      "example": "Drainxiety set in as the tub refused to empty for the third day.",
+      "tags": [
+        "home",
+        "health"
+      ]
+    },
+    {
+      "id": "expensembly",
+      "word": "Expensembly",
+      "pos": "noun",
+      "ipa": "/ɪkˈspɛnsəmbli/",
+      "blend": [
+        "expense",
+        "assembly"
+      ],
+      "definition": "The gathering pile of receipts you must one day submit and dread.",
+      "example": "My work expensembly has been sitting untouched for two whole months.",
+      "tags": [
+        "money",
+        "workplace"
+      ]
+    },
+    {
+      "id": "stampedeline",
+      "word": "Stampedeline",
+      "pos": "noun",
+      "ipa": "/stæmˈpiːdlaɪn/",
+      "blend": [
+        "stampede",
+        "deadline"
+      ],
+      "definition": "The last-minute post office rush to mail something the day it's due.",
+      "example": "I made the stampedeline with two minutes before the window closed.",
+      "tags": [
+        "home",
+        "travel"
+      ]
+    },
+    {
+      "id": "choreoke",
+      "word": "Choreoke",
+      "pos": "noun",
+      "ipa": "/tʃɔːriˈoʊki/",
+      "blend": [
+        "chore",
+        "karaoke"
+      ],
+      "definition": "The private concert you perform with headphones to survive cleaning day.",
+      "example": "Sunday choreoke turned scrubbing the tub into a full stadium tour.",
+      "tags": [
+        "home",
+        "motivation"
+      ]
+    },
+    {
+      "id": "spiralysis",
+      "word": "Spiralysis",
+      "pos": "noun",
+      "ipa": "/ˈspaɪrəlɪsɪs/",
+      "blend": [
+        "spiral",
+        "paralysis"
+      ],
+      "definition": "The frozen state where overthinking every option leaves you unable to do a single one.",
+      "example": "I hit total spiralysis picking a restaurant and we ended up just eating cereal at home.",
+      "tags": [
+        "brain",
+        "laziness"
+      ]
+    },
+    {
+      "id": "dreadmill",
+      "word": "Dreadmill",
+      "pos": "noun",
+      "ipa": "/ˈdrɛdmɪl/",
+      "blend": [
+        "dread",
+        "treadmill"
+      ],
+      "definition": "The mental loop of running the same worry over and over while getting absolutely nowhere.",
+      "example": "I spent the whole meeting on the dreadmill about one email I sent last Tuesday.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "napgret",
+      "word": "Napgret",
+      "pos": "noun",
+      "ipa": "/ˈnæpˌɡrɛt/",
+      "blend": [
+        "nap",
+        "regret"
+      ],
+      "definition": "The groggy remorse of a nap so long it torched both your afternoon and tonight's sleep.",
+      "example": "I woke up at 7pm in full napgret, disoriented and somehow angry at the sun.",
+      "tags": [
+        "laziness",
+        "health"
+      ]
+    },
+    {
+      "id": "insomniyawn",
+      "word": "Insomniyawn",
+      "pos": "noun",
+      "ipa": "/ɪnˈsɒmniˌjɔːn/",
+      "blend": [
+        "insomnia",
+        "yawn"
+      ],
+      "definition": "Being bone-tired and yawning nonstop yet completely unable to actually fall asleep.",
+      "example": "It's 4am insomniyawn hour and my body refuses to cash the checks my eyelids keep writing.",
+      "tags": [
+        "health",
+        "brain"
+      ]
+    },
+    {
+      "id": "procrastiscroll",
+      "word": "Procrastiscroll",
+      "pos": "verb",
+      "ipa": "/proʊˈkræstɪˌskroʊl/",
+      "blend": [
+        "procrastinate",
+        "scroll"
+      ],
+      "definition": "To dodge an urgent task by scrolling your phone into a hypnotic, guilt-soaked trance.",
+      "example": "I procrastiscrolled for two hours and now I know a stranger's whole divorce but not my deadline.",
+      "tags": [
+        "digital",
+        "laziness"
+      ]
+    },
+    {
+      "id": "deadlinertia",
+      "word": "Deadlinertia",
+      "pos": "noun",
+      "ipa": "/ˌdɛdlaɪˈnɜːrʃə/",
+      "blend": [
+        "deadline",
+        "inertia"
+      ],
+      "definition": "The heavy refusal to start a project until the deadline is close enough to trigger panic.",
+      "example": "Deadlinertia kept me on the couch until 11pm, then I wrote the whole report in a fever.",
+      "tags": [
+        "workplace",
+        "laziness"
+      ]
+    },
+    {
+      "id": "procrastipanic",
+      "word": "Procrastipanic",
+      "pos": "noun",
+      "ipa": "/proʊˌkræstɪˈpænɪk/",
+      "blend": [
+        "procrastinate",
+        "panic"
+      ],
+      "definition": "The stomach-drop moment you realize the thing you kept avoiding is now due in an hour.",
+      "example": "The procrastipanic hit so hard I typed my password wrong six times in a row.",
+      "tags": [
+        "workplace",
+        "brain"
+      ]
+    },
+    {
+      "id": "groggravated",
+      "word": "Groggravated",
+      "pos": "adjective",
+      "ipa": "/ˈɡrɒɡrəveɪtɪd/",
+      "blend": [
+        "groggy",
+        "aggravated"
+      ],
+      "definition": "Irrationally furious at everything simply because you just woke up and hate being awake.",
+      "example": "Don't talk to me before coffee, I'm deeply groggravated and the toaster has already offended me.",
+      "tags": [
+        "rage",
+        "health"
+      ]
+    },
+    {
+      "id": "motivacation",
+      "word": "Motivacation",
+      "pos": "noun",
+      "ipa": "/ˌmoʊtɪveɪˈkeɪʃən/",
+      "blend": [
+        "motivation",
+        "vacation"
+      ],
+      "definition": "The mysterious leave your motivation takes the exact moment you sit down to work.",
+      "example": "I finally opened the document and my motivacation immediately booked a one-way flight.",
+      "tags": [
+        "motivation",
+        "laziness"
+      ]
+    },
+    {
+      "id": "ambitiredness",
+      "word": "Ambitiredness",
+      "pos": "noun",
+      "ipa": "/æmˈbɪtaɪərdnəs/",
+      "blend": [
+        "ambition",
+        "tiredness"
+      ],
+      "definition": "Having enormous dreams and precisely zero energy to do anything about any of them.",
+      "example": "My ambitiredness peaked when I wrote a five-year plan and then napped for the whole first year.",
+      "tags": [
+        "motivation",
+        "laziness"
+      ]
+    },
+    {
+      "id": "spitework",
+      "word": "Spitework",
+      "pos": "noun",
+      "ipa": "/ˈspaɪtwɜːrk/",
+      "blend": [
+        "spite",
+        "work"
+      ],
+      "definition": "Effort fueled purely by the desire to prove a specific doubter catastrophically wrong.",
+      "example": "Pure spitework got me through that certification; I passed it entirely to annoy my old boss.",
+      "tags": [
+        "motivation",
+        "workplace",
+        "rage"
+      ]
+    },
+    {
+      "id": "ragestraint",
+      "word": "Ragestraint",
+      "pos": "noun",
+      "ipa": "/reɪdʒˈstreɪnt/",
+      "blend": [
+        "rage",
+        "restraint"
+      ],
+      "definition": "The visible muscular effort of not screaming while someone explains your own job to you.",
+      "example": "My ragestraint was so intense during that call my jaw is still sore this morning.",
+      "tags": [
+        "rage",
+        "workplace"
+      ]
+    },
+    {
+      "id": "grudgemental",
+      "word": "Grudgemental",
+      "pos": "adjective",
+      "ipa": "/ˈɡrʌdʒmɛntəl/",
+      "blend": [
+        "grudge",
+        "judgmental"
+      ],
+      "definition": "Judging someone harshly today over a slight they forgot about years ago.",
+      "example": "I'm being grudgemental about a birthday she missed in 2019, and honestly I regret nothing.",
+      "tags": [
+        "judgment",
+        "rage"
+      ]
+    },
+    {
+      "id": "menugonize",
+      "word": "Menugonize",
+      "pos": "verb",
+      "ipa": "/ˈmɛnjuːˌɡɒnaɪz/",
+      "blend": [
+        "menu",
+        "agonize"
+      ],
+      "definition": "To agonize endlessly over a menu, then order the exact thing you always order.",
+      "example": "I menugonized for ten minutes while the waiter aged visibly, then asked for the burger.",
+      "tags": [
+        "food",
+        "brain"
+      ]
+    },
+    {
+      "id": "blankrupt",
+      "word": "Blankrupt",
+      "pos": "adjective",
+      "ipa": "/ˈblæŋkrʌpt/",
+      "blend": [
+        "blank",
+        "bankrupt"
+      ],
+      "definition": "Completely out of words mid-sentence because your brain just closed for business.",
+      "example": "I introduced my best friend and went totally blankrupt on her name in front of everyone.",
+      "tags": [
+        "brain",
+        "social"
+      ]
+    },
+    {
+      "id": "fatiguilt",
+      "word": "Fatiguilt",
+      "pos": "noun",
+      "ipa": "/fəˈtiːɡɪlt/",
+      "blend": [
+        "fatigue",
+        "guilt"
+      ],
+      "definition": "The guilt of being exhausted when you feel you didn't do enough to earn the tiredness.",
+      "example": "I collapsed at 6pm drowning in fatiguilt because technically all I did today was three emails.",
+      "tags": [
+        "health",
+        "laziness"
+      ]
+    },
+    {
+      "id": "drainergy",
+      "word": "Drainergy",
+      "pos": "noun",
+      "ipa": "/ˈdreɪnərdʒi/",
+      "blend": [
+        "drain",
+        "energy"
+      ],
+      "definition": "The specific negative energy a certain person leaves you with after five minutes.",
+      "example": "One coffee with him and I've got so much drainergy I need a nap and a personality transplant.",
+      "tags": [
+        "social",
+        "health"
+      ]
+    },
+    {
+      "id": "worrygami",
+      "word": "Worrygami",
+      "pos": "noun",
+      "ipa": "/ˈwɜːriˌɡɑːmi/",
+      "blend": [
+        "worry",
+        "origami"
+      ],
+      "definition": "The art of folding one small concern into an elaborate catastrophe at 2am.",
+      "example": "By dawn my worrygami had turned a typo into me getting fired and dying alone.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "overthunk",
+      "word": "Overthunk",
+      "pos": "adjective",
+      "ipa": "/ˌoʊvərˈθʌŋk/",
+      "blend": [
+        "overthink",
+        "sunk"
+      ],
+      "definition": "So thoroughly analyzed that a simple decision is now permanently ruined.",
+      "example": "That text is fully overthunk; I've rewritten 'hey' four times and I'm sending nothing.",
+      "tags": [
+        "brain",
+        "social"
+      ]
+    },
+    {
+      "id": "existentiredness",
+      "word": "Existentiredness",
+      "pos": "noun",
+      "ipa": "/ɛɡzɪˈstɛntaɪərdnəs/",
+      "blend": [
+        "existential",
+        "tiredness"
+      ],
+      "definition": "Being too exhausted to keep questioning the point of it all, so you just keep going.",
+      "example": "I hit peak existentiredness on Wednesday and just started doing chores on autopilot.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "napathy",
+      "word": "Napathy",
+      "pos": "noun",
+      "ipa": "/ˈnæpəθi/",
+      "blend": [
+        "nap",
+        "apathy"
+      ],
+      "definition": "Being simultaneously too tired to function and too apathetic to actually go nap.",
+      "example": "I'm trapped in napathy on the couch, needing sleep but unwilling to walk to the bed.",
+      "tags": [
+        "laziness",
+        "health"
+      ]
+    },
+    {
+      "id": "nappetite",
+      "word": "Nappetite",
+      "pos": "noun",
+      "ipa": "/ˈnæpɪtaɪt/",
+      "blend": [
+        "nap",
+        "appetite"
+      ],
+      "definition": "The sudden overwhelming craving for a nap that strikes the instant work begins.",
+      "example": "My nappetite is bizarrely strongest at 9am, exactly when I'm supposed to look productive.",
+      "tags": [
+        "laziness",
+        "health"
+      ]
+    },
+    {
+      "id": "moodslide",
+      "word": "Moodslide",
+      "pos": "noun",
+      "ipa": "/ˈmuːdslaɪd/",
+      "blend": [
+        "mood",
+        "landslide"
+      ],
+      "definition": "The instant collapse from totally fine to deeply not fine over one tiny thing.",
+      "example": "They were out of my cereal and it triggered a full moodslide that lasted till lunch.",
+      "tags": [
+        "brain",
+        "food"
+      ]
+    },
+    {
+      "id": "emoticoaster",
+      "word": "Emoticoaster",
+      "pos": "noun",
+      "ipa": "/ɪˈmoʊtɪˌkoʊstər/",
+      "blend": [
+        "emotion",
+        "rollercoaster"
+      ],
+      "definition": "A single day's ride from euphoric to despairing and back with no discernible cause.",
+      "example": "Today's emoticoaster went cry, laugh, cry, snack, existential dread, then oddly great.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "procrasticlean",
+      "word": "Procrasticlean",
+      "pos": "verb",
+      "ipa": "/proʊˈkræstɪˌkliːn/",
+      "blend": [
+        "procrastinate",
+        "clean"
+      ],
+      "definition": "To suddenly deep-clean your entire home to avoid one small task you actually owe.",
+      "example": "My taxes are due, so naturally I procrasticleaned the grout with a toothbrush for three hours.",
+      "tags": [
+        "home",
+        "laziness"
+      ]
+    },
+    {
+      "id": "decidodge",
+      "word": "Decidodge",
+      "pos": "verb",
+      "ipa": "/dɪˈsaɪdɒdʒ/",
+      "blend": [
+        "decide",
+        "dodge"
+      ],
+      "definition": "To dodge a decision so long that circumstances end up making it for you.",
+      "example": "I decidodged the concert tickets until they sold out, which is technically a decision.",
+      "tags": [
+        "brain",
+        "laziness"
+      ]
+    },
+    {
+      "id": "ruminaited",
+      "word": "Ruminaited",
+      "pos": "adjective",
+      "ipa": "/ˈruːmɪneɪtɪd/",
+      "blend": [
+        "ruminate",
+        "waited"
+      ],
+      "definition": "Left wired and awake because you replayed one awkward moment for three straight hours.",
+      "example": "I'm completely ruminaited over saying 'you too' to the waiter and it's now 2am.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "microrage",
+      "word": "Microrage",
+      "pos": "noun",
+      "ipa": "/ˈmaɪkroʊreɪdʒ/",
+      "blend": [
+        "micro",
+        "rage"
+      ],
+      "definition": "A tiny, disproportionate fury at a slow website or a drawer that won't close.",
+      "example": "I felt a jolt of microrage when the page loaded and immediately shoved an ad in my face.",
+      "tags": [
+        "rage",
+        "absurd"
+      ]
+    },
+    {
+      "id": "snoozillusion",
+      "word": "Snoozillusion",
+      "pos": "noun",
+      "ipa": "/snuːˈzɪluːʒən/",
+      "blend": [
+        "snooze",
+        "illusion"
+      ],
+      "definition": "The daily lie that hitting snooze for nine more minutes will change anything at all.",
+      "example": "I fell for the snoozillusion five times and still woke up exactly as tired and now late.",
+      "tags": [
+        "health",
+        "brain"
+      ]
+    },
+    {
+      "id": "existenchill",
+      "word": "Existenchill",
+      "pos": "noun",
+      "ipa": "/ɛɡzɪˈstɛntʃɪl/",
+      "blend": [
+        "existential",
+        "chill"
+      ],
+      "definition": "The eerie calm of accepting that nothing matters, so you might as well relax.",
+      "example": "I reached existenchill during the layoffs and just made myself a really nice sandwich.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "boilerage",
+      "word": "Boilerage",
+      "pos": "noun",
+      "ipa": "/ˈbɔɪlərɪdʒ/",
+      "blend": [
+        "boil",
+        "rage"
+      ],
+      "definition": "Anger simmering silently under a calm face until one small thing makes it erupt.",
+      "example": "Days of boilerage finally blew when he took the last coffee and left the empty pot on.",
+      "tags": [
+        "rage",
+        "home"
+      ]
+    },
+    {
+      "id": "snappetite",
+      "word": "Snappetite",
+      "pos": "noun",
+      "ipa": "/ˈsnæpɪtaɪt/",
+      "blend": [
+        "snap",
+        "appetite"
+      ],
+      "definition": "The hair-trigger readiness to bite someone's head off after a long, draining day.",
+      "example": "By 6pm my snappetite was lethal, so I ate crackers alone and spoke to no one.",
+      "tags": [
+        "rage",
+        "health"
+      ]
+    },
+    {
+      "id": "furiousity",
+      "word": "Furiousity",
+      "pos": "noun",
+      "ipa": "/fjʊˈrɪɒsɪti/",
+      "blend": [
+        "furious",
+        "curiosity"
+      ],
+      "definition": "The angry compulsion to keep reading about drama that makes your blood boil.",
+      "example": "Pure furiousity kept me on that thread for an hour, seething and refreshing for more.",
+      "tags": [
+        "rage",
+        "digital",
+        "judgment"
+      ]
+    },
+    {
+      "id": "pettitude",
+      "word": "Pettitude",
+      "pos": "noun",
+      "ipa": "/ˈpɛtɪtjuːd/",
+      "blend": [
+        "petty",
+        "attitude"
+      ],
+      "definition": "The proud commitment to a grudge so small even you know it's ridiculous.",
+      "example": "With full pettitude I parked slightly crooked so my rude neighbor would have to notice.",
+      "tags": [
+        "rage",
+        "judgment"
+      ]
+    },
+    {
+      "id": "vengeagerness",
+      "word": "Vengeagerness",
+      "pos": "noun",
+      "ipa": "/vɛndʒˈeɪɡərnəs/",
+      "blend": [
+        "vengeance",
+        "eagerness"
+      ],
+      "definition": "The suspicious burst of energy that only appears when you're plotting sweet revenge.",
+      "example": "I have no motivation for chores but boundless vengeagerness for drafting this complaint.",
+      "tags": [
+        "rage",
+        "motivation"
+      ]
+    },
+    {
+      "id": "doomsomnia",
+      "word": "Doomsomnia",
+      "pos": "noun",
+      "ipa": "/duːmˈsɒmniə/",
+      "blend": [
+        "doom",
+        "insomnia"
+      ],
+      "definition": "Lying awake at night while your brain screens every worst-case scenario in HD.",
+      "example": "Doomsomnia had me rehearsing my own funeral over a mildly weird text at midnight.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "anxietailspin",
+      "word": "Anxietailspin",
+      "pos": "noun",
+      "ipa": "/æŋˈzaɪəteɪlspɪn/",
+      "blend": [
+        "anxiety",
+        "tailspin"
+      ],
+      "definition": "The rapid descent from one small worry into a full-blown crisis of everything.",
+      "example": "A single unread message sent me into an anxietailspin about my entire career and worth.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "catastrophizzy",
+      "word": "Catastrophizzy",
+      "pos": "adjective",
+      "ipa": "/kəˈtæstrəfɪzi/",
+      "blend": [
+        "catastrophize",
+        "dizzy"
+      ],
+      "definition": "Lightheaded and spinning from imagining every disaster that will almost certainly not happen.",
+      "example": "I got catastrophizzy planning a trip and convinced myself the plane, hotel, and I were doomed.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "panicdote",
+      "word": "Panicdote",
+      "pos": "noun",
+      "ipa": "/ˈpænɪkdoʊt/",
+      "blend": [
+        "panic",
+        "anecdote"
+      ],
+      "definition": "The story of your recent meltdown, now retold at parties like it was hilarious.",
+      "example": "He opened with his airport panicdote, and honestly the sobbing part really landed.",
+      "tags": [
+        "brain",
+        "social"
+      ]
+    },
+    {
+      "id": "motivaping",
+      "word": "Motivaping",
+      "pos": "noun",
+      "ipa": "/ˈmoʊtɪveɪpɪŋ/",
+      "blend": [
+        "motivation",
+        "vaping"
+      ],
+      "definition": "A hit of inspiration so intense and brief it's gone before you stand up.",
+      "example": "That gym video gave me a huge motivaping rush that fully evaporated by the fridge.",
+      "tags": [
+        "motivation",
+        "absurd"
+      ]
+    },
+    {
+      "id": "burnoutro",
+      "word": "Burnoutro",
+      "pos": "noun",
+      "ipa": "/bɜːrnˈaʊtroʊ/",
+      "blend": [
+        "burnout",
+        "outro"
+      ],
+      "definition": "The end-of-day collapse where you stare at a wall with nothing left to give.",
+      "example": "I hit the burnoutro at 5:45 and sat in the parked car for twenty minutes just breathing.",
+      "tags": [
+        "workplace",
+        "health"
+      ]
+    },
+    {
+      "id": "wakenxiety",
+      "word": "Wakenxiety",
+      "pos": "noun",
+      "ipa": "/weɪkˈzaɪəti/",
+      "blend": [
+        "wake",
+        "anxiety"
+      ],
+      "definition": "The 3am jolt awake with your heart racing over a problem you can't even name.",
+      "example": "Wakenxiety yanked me up at 3:12 convinced I'd forgotten something that doesn't exist.",
+      "tags": [
+        "brain",
+        "health"
+      ]
+    },
+    {
+      "id": "forgotcha",
+      "word": "Forgotcha",
+      "pos": "exclamation",
+      "ipa": "/fərˈɡɒtʃə/",
+      "blend": [
+        "forgot",
+        "gotcha"
+      ],
+      "definition": "The instant a name or word vanishes the exact second you need to say it.",
+      "example": "I went to name my coworker, brain screamed forgotcha, and I just called him 'buddy'.",
+      "tags": [
+        "brain",
+        "social"
+      ]
+    },
+    {
+      "id": "optionoia",
+      "word": "Optionoia",
+      "pos": "noun",
+      "ipa": "/ˌɒpʃəˈnɔɪə/",
+      "blend": [
+        "option",
+        "paranoia"
+      ],
+      "definition": "The dread that whatever you pick, a secretly better option is silently mocking you.",
+      "example": "Optionoia kept me refreshing hotels for an hour, sure the perfect one was one click away.",
+      "tags": [
+        "brain",
+        "travel"
+      ]
+    },
+    {
+      "id": "tossomnia",
+      "word": "Tossomnia",
+      "pos": "noun",
+      "ipa": "/tɒsˈɒmniə/",
+      "blend": [
+        "toss",
+        "insomnia"
+      ],
+      "definition": "Flipping the pillow and rotating through every position while sleep refuses to come.",
+      "example": "Three hours of tossomnia and I've now met the cold side of the pillow eleven times.",
+      "tags": [
+        "health",
+        "brain"
+      ]
+    },
+    {
+      "id": "grumplaint",
+      "word": "Grumplaint",
+      "pos": "noun",
+      "ipa": "/ˈɡrʌmpleɪnt/",
+      "blend": [
+        "grumpy",
+        "complaint"
+      ],
+      "definition": "A grievance aired purely to vent, wanting sympathy rather than any actual solution.",
+      "example": "That was a grumplaint, not a request, so please don't try to fix my morning for me.",
+      "tags": [
+        "social",
+        "rage"
+      ]
+    },
+    {
+      "id": "hatigue",
+      "word": "Hatigue",
+      "pos": "noun",
+      "ipa": "/heɪˈtiːɡ/",
+      "blend": [
+        "hate",
+        "fatigue"
+      ],
+      "definition": "Being so exhausted you can't summon the energy to hate the thing you hate.",
+      "example": "I'm in full hatigue about the news; I know it's outrageous but I'm too tired to be mad.",
+      "tags": [
+        "rage",
+        "health"
+      ]
+    },
+    {
+      "id": "spitestamina",
+      "word": "Spitestamina",
+      "pos": "noun",
+      "ipa": "/ˈspaɪtstæmɪnə/",
+      "blend": [
+        "spite",
+        "stamina"
+      ],
+      "definition": "The bottomless endurance you only discover when someone said you couldn't do it.",
+      "example": "My spitestamina carried me through the whole marathon just to prove my brother wrong.",
+      "tags": [
+        "motivation",
+        "rage"
+      ]
+    },
+    {
+      "id": "sulkcano",
+      "word": "Sulkcano",
+      "pos": "noun",
+      "ipa": "/sʌlˈkeɪnoʊ/",
+      "blend": [
+        "sulk",
+        "volcano"
+      ],
+      "definition": "A quiet sulk building pressure until it erupts over something totally unrelated.",
+      "example": "She'd been a sulkcano all evening and finally blew up about the dishwasher, not the real thing.",
+      "tags": [
+        "rage",
+        "home"
+      ]
+    },
+    {
+      "id": "alarmnesia",
+      "word": "Alarmnesia",
+      "pos": "noun",
+      "ipa": "/əˌlɑːrmˈniːʒə/",
+      "blend": [
+        "alarm",
+        "amnesia"
+      ],
+      "definition": "Turning off your alarm and instantly forgetting you ever had somewhere to be.",
+      "example": "Classic alarmnesia: I silenced it at 6, forgot the meeting existed, and woke up at 9.",
+      "tags": [
+        "brain",
+        "laziness"
+      ]
+    }
+  ]
+}

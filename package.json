@@ -1,0 +1,16 @@
+{
+  "name": "onlymip-wordquiz-wod",
+  "version": "1.0.0",
+  "description": "OnlyMIP WordQuiz — an aggressively relatable Word of the Day. Unscramble the day's gloriously made-up word, learn its meaning, and meet its like-minded friends.",
+  "type": "module",
+  "scripts": {
+    "start": "bun run server.ts",
+    "dev": "bun --watch server.ts"
+  },
+  "engines": {
+    "bun": ">=1.0.0"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}

@@ -1,0 +1,10 @@
+services:
+  wod:
+    build: .
+    image: onlymip-wordquiz-wod
+    container_name: onlymip-wod
+    ports:
+      - "3000:3000"
+    environment:
+      - PORT=3000
+    restart: unless-stopped

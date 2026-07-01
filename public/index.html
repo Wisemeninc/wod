@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>__TITLE__</title>
+  <meta name="description" content="__DESC__">
+  <link rel="icon" type="image/svg+xml" href="/logo.svg">
+
+  <!-- Per-day Open Graph share card -->
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="__TITLE__">
+  <meta property="og:description" content="__DESC__">
+  <meta property="og:image" content="__IMAGE__">
+  <meta property="og:image:width" content="1200">
+  <meta property="og:image:height" content="630">
+  <meta property="og:url" content="__URL__">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="__TITLE__">
+  <meta name="twitter:description" content="__DESC__">
+  <meta name="twitter:image" content="__IMAGE__">
+
+  <link rel="stylesheet" href="/style.css?v=4">
+</head>
+<body data-initial-date="__DATE__">
+  <div class="container">
+    <div class="date-nav">
+      <button class="btn btn-secondary btn-small" id="prev-day">‹ Yesterday</button>
+      <span class="date-label" id="date-label">…</span>
+    </div>
+
+    <div class="card-wrap">
+      <img id="card-img" class="share-card" alt="Word of the day share card" width="1200" height="630">
+    </div>
+
+    <div class="share-actions">
+      <button class="btn btn-primary" id="copy-btn">Copy share link</button>
+      <a class="btn btn-secondary" id="download-btn" download>Download card</a>
+    </div>
+    <div class="share-status" id="share-status"></div>
+  </div>
+
+  <script src="/app.js?v=4"></script>
+</body>
+</html>
